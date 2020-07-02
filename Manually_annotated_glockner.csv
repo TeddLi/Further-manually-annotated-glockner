@@ -1,0 +1,982 @@
+The man is holding a saxophone.,The man is holding an instrument.,strict_entailment
+The man is wearing a yellow shirt and playing a piano.,The man is wearing a yellow shirt and playing an instrument.,strict_entailment
+The bubbles carry small animals to the moon.,The bubbles carry little animals to the moon.,Paraphrasing
+A small dog is sleeping on the couch.,A tiny dog is sleeping on the couch.,Paraphrasing
+A small dog is sleeping on the couch.,A small dog is sleeping on the sofa.,Paraphrasing
+A small dog is sleeping on the couch.,A little dog is sleeping on the couch.,Paraphrasing
+The little girl is spending time with her dad.,The little girl is spending time with her father.,Paraphrasing
+The little girl is spending time with her dad.,The small girl is spending time with her dad.,Paraphrasing
+The little girl is spending time with her dad.,The tiny girl is spending time with her dad.,Paraphrasing
+"A person in a yellow hat, carrying a bag and a fishing pole, walks in a grassy area near a small body of water.","A person in a yellow hat, carrying a bag and a fishing pole, walks in a grassy area near a little body of water.",Paraphrasing
+"A person in a yellow hat, carrying a bag and a fishing pole, walks in a grassy area near a small body of water.","A person in a yellow hat, carrying a bag and a fishing pole, walks in a grassy area near a tiny body of water.",Paraphrasing
+"A person in a yellow hat, carrying a bag and a fishing pole, walks in a grassy area near a small body of water.","A person in a yellow hat, carrying a bag and a fishing pole, walks in a grassy area close to a small body of water.",Paraphrasing
+Group of three people stand outside a building holding an over sized ukulele and an accordion.,Group of three people stand outside a building holding an over sized ukulele and an instrument.,strict_entailment
+A little girl is laughing as her mom holds her up to a pole at the playground.,A tiny girl is laughing as her mom holds her up to a pole at the playground.,Paraphrasing
+A little girl is laughing as her mom holds her up to a pole at the playground.,A small girl is laughing as her mom holds her up to a pole at the playground.,Paraphrasing
+A little girl is laughing as her mom holds her up to a pole at the playground.,A little girl is laughing as her mother holds her up to a pole at the playground.,Paraphrasing
+A male plays a banjo while sitting on a sofa.,A male plays an instrument while sitting on a sofa.,strict_entailment
+A man holds a cello.,A man holds an instrument.,strict_entailment
+A little girl holds onto a pole on a city street.,A little girl holds onto a pole on a city road.,Paraphrasing
+A little girl holds onto a pole on a city street.,A small girl holds onto a pole on a city street.,Paraphrasing
+A little girl holds onto a pole on a city street.,A tiny girl holds onto a pole on a city street.,Paraphrasing
+"A man looked very small, as he walked along the ancient building.","A man looked very small, as he walked along the old building.",Paraphrasing
+"A man looked very small, as he walked along the ancient building.","A man looked very tiny, as he walked along the ancient building.",Paraphrasing
+"A man looked very small, as he walked along the ancient building.","A man looked very little, as he walked along the ancient building.",Paraphrasing
+A man in orange gives his son a piggyback ride down the street in the daytime.,A man in orange gives his son a piggyback ride down the road in the daytime.,Paraphrasing
+A man in orange gives his son a piggyback ride down the street in the daytime.,A man in orange gives his son a piggyback ride up the street in the daytime.,Paraphrasing
+"A woman wearing a patterned dress in an outdoor market sits surrounded by her offerings of onions, eggs, tomatoes, beans, and many other things.","A woman wearing a patterned dress in an outdoor market sits surrounded by her offerings of onions, eggs, tomatoes, beans, and many familiar things.",Paraphrasing
+A trumpet player is wearing a black jacket and cap.,An instrument player is wearing a black jacket and cap.,strict_entailment
+A little girl is very sad.,A small girl is very sad.,Paraphrasing
+A little girl is very sad.,A little girl is very miserable.,Paraphrasing
+A little girl is very sad.,A little girl is very unhappy.,Paraphrasing
+A little girl is very sad.,A tiny girl is very sad.,Paraphrasing
+A little girl in a green shirt and pink shorts is running up a grassy hill near a pavilion.,A tiny girl in a green shirt and pink shorts is running up a grassy hill near a pavilion.,Paraphrasing
+A little girl in a green shirt and pink shorts is running up a grassy hill near a pavilion.,A little girl in a green shirt and pink shorts is running up a grassy hill close to a pavilion.,Paraphrasing
+A little girl in a green shirt and pink shorts is running up a grassy hill near a pavilion.,A small girl in a green shirt and pink shorts is running up a grassy hill near a pavilion.,Paraphrasing
+A small group of people standing while two sit on the couch.,A small group of people running while two sit on the couch.,Paraphrasing
+A small group of people standing while two sit on the couch.,A little group of people standing while two sit on the couch.,Paraphrasing
+A small group of people standing while two sit on the couch.,A tiny group of people standing while two sit on the couch.,Paraphrasing
+A small group of people standing while two sit on the couch.,A small group of people standing while two sit on the sofa.,Paraphrasing
+The boy is very happy.,The boy is very delighted.,Paraphrasing
+The boy is very happy.,The boy is very pleased.,Paraphrasing
+The boy is very happy.,The boy is very joyful.,Paraphrasing
+The boy is very happy.,The boy is very glad.,Paraphrasing
+Sitting down are two people who are very happy.,Sitting down are two people who are very pleased.,Paraphrasing
+Sitting down are two people who are very happy.,Sitting down are two people who are very delighted.,Paraphrasing
+Sitting down are two people who are very happy.,Sitting down are two people who are very joyful.,Paraphrasing
+Sitting down are two people who are very happy.,Sitting down are two people who are very glad.,Paraphrasing
+A tiny little girl wearing pink stands by a man who is wearing brown and sitting down.,A small little girl wearing pink stands by a man who is wearing brown and sitting down.,Paraphrasing
+"A main street scene of a small town with an overhead welcome sign that says ""Welcome to Golden"".","A main road scene of a small town with an overhead welcome sign that says ""Welcome to Golden"".",Paraphrasing
+"A main street scene of a small town with an overhead welcome sign that says ""Welcome to Golden"".","A main street scene of a tiny town with an overhead welcome sign that says ""Welcome to Golden"".",Paraphrasing
+"A main street scene of a small town with an overhead welcome sign that says ""Welcome to Golden"".","A main street scene of a little town with an overhead welcome sign that says ""Welcome to Golden"".",Paraphrasing
+The children are very happy.,The children are very glad.,Paraphrasing
+The children are very happy.,The children are very joyful.,Paraphrasing
+The children are very happy.,The children are very delighted.,Paraphrasing
+The children are very happy.,The children are very pleased.,Paraphrasing
+A police office is close to two vehicles.,A police office is close to 2 vehicles.,Paraphrasing
+"Three children playing on swings in a small park, one little girl wearing pink has her stomach on the swing, a little boy wearing navy track pants and a yellow shirt is half on and half off the swing, and the last little boy is standing in front of the boy on the swing.","Three children playing on swings in a small park, one tiny girl wearing pink has her stomach on the swing, a tiny boy wearing navy track pants and a yellow shirt is half on and half off the swing, and the last tiny boy is standing in front of the boy on the swing.",Paraphrasing
+"Three children playing on swings in a small park, one little girl wearing pink has her stomach on the swing, a little boy wearing navy track pants and a yellow shirt is half on and half off the swing, and the last little boy is standing in front of the boy on the swing.","Three children playing on swings in a little park, one little girl wearing pink has her stomach on the swing, a little boy wearing navy track pants and a yellow shirt is half on and half off the swing, and the last little boy is standing in front of the boy on the swing.",Paraphrasing
+"Three children playing on swings in a small park, one little girl wearing pink has her stomach on the swing, a little boy wearing navy track pants and a yellow shirt is half on and half off the swing, and the last little boy is standing in front of the boy on the swing.","Three children playing on swings in a small park, one small girl wearing pink has her stomach on the swing, a small boy wearing navy track pants and a yellow shirt is half on and half off the swing, and the last small boy is standing in front of the boy on the swing.",Paraphrasing
+The bride is very happy.,The bride is very glad.,Paraphrasing
+The bride is very happy.,The bride is very delighted.,Paraphrasing
+The bride is very happy.,The bride is very joyful.,Paraphrasing
+The bride is very happy.,The bride is very pleased.,Paraphrasing
+A woman in a light red shirt looks very happy.,A woman in a light red shirt looks very delighted.,Paraphrasing
+A woman in a light red shirt looks very happy.,A woman in a light red shirt looks very joyful.,Paraphrasing
+A woman in a light red shirt looks very happy.,A woman in a light red shirt looks very pleased.,Paraphrasing
+A woman in a light red shirt looks very happy.,A woman in a light red shirt looks very glad.,Paraphrasing
+A little girl is walking in a puddle of rain water in a hole in the road.,A small girl is walking in a puddle of rain water in a hole in the road.,Paraphrasing
+A little girl is walking in a puddle of rain water in a hole in the road.,A tiny girl is walking in a puddle of rain water in a hole in the road.,Paraphrasing
+A little girl is walking in a puddle of rain water in a hole in the road.,A little girl is walking in a puddle of rain water in a hole in the street.,Paraphrasing
+A man in an apron stands in a kitchen working an industrial mixing bowl.,A man in an apron stands in a room working an industrial mixing bowl.,strict_entailment
+A man in an apron stands in a kitchen working an industrial mixing bowl.,A man in an apron stands in a building working an industrial mixing bowl.,strict_entailment
+A little girl with pigtails is looking through picture books while her mom stands nearby.,A tiny girl with pigtails is looking through picture books while her mom stands nearby.,Paraphrasing
+A little girl with pigtails is looking through picture books while her mom stands nearby.,A small girl with pigtails is looking through picture books while her mom stands nearby.,Paraphrasing
+A little girl with pigtails is looking through picture books while her mom stands nearby.,A little girl with pigtails is looking through picture books while her mother stands nearby.,Paraphrasing
+A man on a dirt road in a small town,A man on a dirt road in a tiny town,Paraphrasing
+A man on a dirt road in a small town,A man on a dirt street in a small town,Paraphrasing
+A man on a dirt road in a small town,A man on a dirt road in a little town,Paraphrasing
+The small girl boots were a little dirty.,The little girl boots were a little dirty.,Paraphrasing
+The small girl boots were a little dirty.,The tiny girl boots were a little dirty.,Paraphrasing
+A little girl wearing a pink hat is running near some garden tools.,A tiny girl wearing a pink hat is running near some garden tools.,Paraphrasing
+A little girl wearing a pink hat is running near some garden tools.,A small girl wearing a pink hat is running near some garden tools.,Paraphrasing
+A little girl wearing a pink hat is running near some garden tools.,A little girl wearing a pink hat is running close to some garden tools.,Paraphrasing
+A little girl with brown hair sleeps on the couch.,A tiny girl with brown hair sleeps on the couch.,Paraphrasing
+A little girl with brown hair sleeps on the couch.,A little girl with brown hair sleeps on the sofa.,Paraphrasing
+A little girl with brown hair sleeps on the couch.,A small girl with brown hair sleeps on the couch.,Paraphrasing
+A man is standing by a city street holding a saxophone.,A man is standing by a city street holding an instrument.,strict_entailment
+Someone plays a violin while another listens.,Someone plays an instrument while another listens.,strict_entailment
+The little girl is driving the small blue car.,The little girl is driving the little blue car.,Paraphrasing
+The little girl is driving the small blue car.,The small girl is driving the small blue car.,Paraphrasing
+The little girl is driving the small blue car.,The tiny girl is driving the small blue car.,Paraphrasing
+The little girl is driving the small blue car.,The little girl is driving the tiny blue car.,Paraphrasing
+The little girl and lady are wearing costumes and crossing the street.,The small girl and lady are wearing costumes and crossing the street.,Paraphrasing
+The little girl and lady are wearing costumes and crossing the street.,The tiny girl and lady are wearing costumes and crossing the street.,Paraphrasing
+The little girl and lady are wearing costumes and crossing the street.,The little girl and lady are wearing costumes and crossing the road.,Paraphrasing
+A little girl wearing an orange and white dress is being taught how to ride her green-colored bicycle by her father.,A tiny girl wearing an orange and white dress is being taught how to ride her green-colored bicycle by her father.,Paraphrasing
+A little girl wearing an orange and white dress is being taught how to ride her green-colored bicycle by her father.,A little girl wearing an orange and white dress is being taught how to ride her green-colored bicycle by her dad.,Paraphrasing
+A little girl wearing an orange and white dress is being taught how to ride her green-colored bicycle by her father.,A small girl wearing an orange and white dress is being taught how to ride her green-colored bicycle by her father.,Paraphrasing
+People near 5 orange outdoor toilets in a city,People close to 5 orange outdoor toilets in a city,Paraphrasing
+The little girl is bothering her father.,The little girl is bothering her dad.,Paraphrasing
+The little girl is bothering her father.,The tiny girl is bothering her father.,Paraphrasing
+The little girl is bothering her father.,The small girl is bothering her father.,Paraphrasing
+The sun is brightening up the meeting between the two friends.,The sun is brightening up the meeting between the 2 friends.,Paraphrasing
+a man is pretending to be asleep so no one will talk to him,a man is pretending to be asleep so nobody will talk to him,Paraphrasing
+Someone standing near a small window of a building looking at his cat on the window sill.,Someone standing near a little window of a building looking at his cat on the window sill.,Paraphrasing
+Someone standing near a small window of a building looking at his cat on the window sill.,Someone standing close to a small window of a building looking at his cat on the window sill.,Paraphrasing
+Someone standing near a small window of a building looking at his cat on the window sill.,Someone standing near a tiny window of a building looking at his cat on the window sill.,Paraphrasing
+A little girl throw rocks into a small stream.,A little girl throw rocks into a tiny stream.,Paraphrasing
+A little girl throw rocks into a small stream.,A tiny girl throw rocks into a small stream.,Paraphrasing
+A little girl throw rocks into a small stream.,A small girl throw rocks into a small stream.,Paraphrasing
+A little girl throw rocks into a small stream.,A little girl throw rocks into a little stream.,Paraphrasing
+The third man is giving the other two men advice on how to fix the motorcycle.,The 3rd man is giving the other two men advice on how to fix the motorcycle.,Paraphrasing
+A little girl is drawing at a table near a baby.,A small girl is drawing at a table near a baby.,Paraphrasing
+A little girl is drawing at a table near a baby.,A little girl is drawing at a table close to a baby.,Paraphrasing
+A little girl is drawing at a table near a baby.,A tiny girl is drawing at a table near a baby.,Paraphrasing
+A number of children are watching by two men because they not safe near the bus.,A number of children are watching by 2 men because they not safe near the bus.,Paraphrasing
+A little girl is riding a horse on the street.,A tiny girl is riding a horse on the street.,Paraphrasing
+A little girl is riding a horse on the street.,A small girl is riding a horse on the street.,Paraphrasing
+A little girl is riding a horse on the street.,A little girl is riding a horse on the road.,Paraphrasing
+The man close to the camera is playing drums.,The man near the camera is playing drums.,Paraphrasing
+"A girl jumping into a pool, with a man standing near.","A girl jumping into a pool, with a man standing close to.",Paraphrasing
+A little girl wearing pink cooking with her mom inside a resturant.,A small girl wearing pink cooking with her mom inside a resturant.,Paraphrasing
+A little girl wearing pink cooking with her mom inside a resturant.,A tiny girl wearing pink cooking with her mom inside a resturant.,Paraphrasing
+A little girl wearing pink cooking with her mom inside a resturant.,A little girl wearing pink cooking with her mother inside a resturant.,Paraphrasing
+There is a small crowd of people in front of a building near the row of motorcycles.,There is a little crowd of people in front of a building near the row of motorcycles.,Paraphrasing
+"A man wearing a colorful shirt is sitting with a plastic bucket on a wooden raft-type structure in brownish water with a canoe nearby, very close to the shore which is covered with greenery.","A man wearing a colorful shirt is sitting with a plastic bucket on a wooden raft-type structure in brownish water with a canoe nearby, very near the shore which is covered with greenery.",Paraphrasing
+The man was in danger of riding his bike too close to the cars on the street.,The man was in danger of riding his bike too close to the cars on the road.,Paraphrasing
+The man was in danger of riding his bike too close to the cars on the street.,The man was in danger of riding his bike too near the cars on the street.,Paraphrasing
+A little girl crys in a woman's arms as she walks down the street.,A tiny girl crys in a woman's arms as she walks down the street.,Paraphrasing
+A little girl crys in a woman's arms as she walks down the street.,A small girl crys in a woman's arms as she walks down the street.,Paraphrasing
+A little girl crys in a woman's arms as she walks down the street.,A little girl crys in a woman's arms as she walks down the road.,Paraphrasing
+A baseball player in gray and orange is trying to avoid being tagged out by the second base player of the opposing team in maroon and white.,A baseball player in gray and orange is trying to avoid being tagged out by the 2nd base player of the opposing team in maroon and white.,Paraphrasing
+A boy dressed in blue jeans and a red shirt sits on the road holding a water bottle while a little girl dressed in a red shirt looks on.,A boy dressed in blue jeans and a red shirt sits on the street holding a water bottle while a little girl dressed in a red shirt looks on.,Paraphrasing
+A boy dressed in blue jeans and a red shirt sits on the road holding a water bottle while a little girl dressed in a red shirt looks on.,A boy dressed in blue jeans and a red shirt sits on the road holding a water bottle while a small girl dressed in a red shirt looks on.,Paraphrasing
+A small girl wearing a yellow dress rocking in a tiny white chair.,A tiny girl wearing a yellow dress rocking in a tiny white chair.,Paraphrasing
+A small girl wearing a yellow dress rocking in a tiny white chair.,A small girl wearing a yellow dress rocking in a small white chair.,Paraphrasing
+A small girl wearing a yellow dress rocking in a tiny white chair.,A little girl wearing a yellow dress rocking in a tiny white chair.,Paraphrasing
+A small girl wearing a yellow dress rocking in a tiny white chair.,A small girl wearing a yellow dress rocking in a little white chair.,Paraphrasing
+The street goes all the way the the planet Mars.,The road goes all the way the the planet Mars.,Paraphrasing
+A little girl is helping her father make breakfast,A small girl is helping her father make breakfast,Paraphrasing
+A little girl is helping her father make breakfast,A little girl is helping her dad make breakfast,Paraphrasing
+A little girl is helping her father make breakfast,A tiny girl is helping her father make breakfast,Paraphrasing
+A man on a bicycle rides his bike down a small street near his home as a garabage truck drives close behind.,A man on a bicycle rides his bike down a little street near his home as a garabage truck drives close behind.,Paraphrasing
+A man on a bicycle rides his bike down a small street near his home as a garabage truck drives close behind.,A man on a bicycle rides his bike down a tiny street near his home as a garabage truck drives close behind.,Paraphrasing
+A man on a bicycle rides his bike down a small street near his home as a garabage truck drives close behind.,A man on a bicycle rides his bike down a small road near his home as a garabage truck drives close behind.,Paraphrasing
+The little girl is coloring a picture to give to her mom.,The tiny girl is coloring a picture to give to her mom.,Paraphrasing
+The little girl is coloring a picture to give to her mom.,The little girl is coloring a picture to give to her mother.,Paraphrasing
+The little girl is coloring a picture to give to her mom.,The small girl is coloring a picture to give to her mom.,Paraphrasing
+The first baseman is up to bat.,The 1st baseman is up to bat.,Paraphrasing
+There is an old man and a little girl looking very sad.,There is an old man and a small girl looking very sad.,Paraphrasing
+There is an old man and a little girl looking very sad.,There is an old man and a little girl looking very unhappy.,Paraphrasing
+There is an old man and a little girl looking very sad.,There is an old man and a little girl looking very miserable.,Paraphrasing
+There is an old man and a little girl looking very sad.,There is an old man and a tiny girl looking very sad.,Paraphrasing
+A small girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons.,A little girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons.,Paraphrasing
+A small girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons.,A small girl dressed in a yellow dress with flowers on it bends over close to a large pile of watermelons.,Paraphrasing
+A small girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons.,A tiny girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons.,Paraphrasing
+"The camera was tilted to the side to show this small room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them near the door to the room.","The camera was tilted to the side to show this tiny room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them near the door to the room.",Paraphrasing
+A woman in a brown jacket taking a picture near two other people.,A woman in a brown jacket taking a picture close to two other people.,Paraphrasing
+A big brown dog plays with a small white dog near a ball.,A big brown dog plays with a tiny white dog near a ball.,Paraphrasing
+A big brown dog plays with a small white dog near a ball.,A big brown dog plays with a little white dog near a ball.,Paraphrasing
+A big brown dog plays with a small white dog near a ball.,A big brown dog plays with a small white dog close to a ball.,Paraphrasing
+The woman is so happy she won her competition.,The woman is so pleased she won her competition.,Paraphrasing
+The woman is so happy she won her competition.,The woman is so delighted she won her competition.,Paraphrasing
+The woman is so happy she won her competition.,The woman is so glad she won her competition.,Paraphrasing
+There is a girl running near the water.,There is a girl passing near the water.,strict_entailment
+The little girl crosses the street alone.,The small girl crosses the street alone.,Paraphrasing
+The little girl crosses the street alone.,The tiny girl crosses the street alone.,Paraphrasing
+The little girl crosses the street alone.,The little girl crosses the road alone.,Paraphrasing
+The man cannot get the four wheeler to turn for some reason.,The man cannot get the 4 wheeler to turn for some reason.,Paraphrasing
+an elderly woman stands outside near some trees and an architectural design that she built,an elderly woman stands outside close to some trees and an architectural design that she built,Paraphrasing
+"On a street in England, people watch a construction vehicle work on the road.","On a street in England, people watch a construction vehicle work on the street.",Paraphrasing
+An older man had just bought some biscuits from a little girl for charity.,An older man had just bought some biscuits from a tiny girl for charity.,Paraphrasing
+An older man had just bought some biscuits from a little girl for charity.,An older man had just bought some biscuits from a small girl for charity.,Paraphrasing
+Two kids and two older people near them.,Two kids and 2 older people near them.,Paraphrasing
+A little male has his head close to the floor and feet facing up.,A little male has his head near the floor and feet facing up.,Paraphrasing
+four performers are dancing in a parking lot while others watch.,4 performers are dancing in a parking lot while others watch.,Paraphrasing
+A small baby stands near a cradle.,A tiny baby stands near a cradle.,Paraphrasing
+A small baby stands near a cradle.,A little baby stands near a cradle.,Paraphrasing
+A small baby stands near a cradle.,A small baby stands close to a cradle.,Paraphrasing
+A little girl stands in a puddle of water in the middle of the street.,A tiny girl stands in a puddle of water in the middle of the street.,Paraphrasing
+A little girl stands in a puddle of water in the middle of the street.,A little girl stands in a puddle of water in the middle of the road.,Paraphrasing
+A little girl stands in a puddle of water in the middle of the street.,A small girl stands in a puddle of water in the middle of the street.,Paraphrasing
+The little girl is making a sand castle to show her mother.,The tiny girl is making a sand castle to show her mother.,Paraphrasing
+The little girl is making a sand castle to show her mother.,The small girl is making a sand castle to show her mother.,Paraphrasing
+The little girl is making a sand castle to show her mother.,The little girl is making a sand castle to show her mom.,Paraphrasing
+A woman in comfortable clothing is moving quickly outside near a building with a decoration on it.,A woman in comfortable clothing is moving rapidly outside near a building with a decoration on it.,Paraphrasing
+A woman in comfortable clothing is moving quickly outside near a building with a decoration on it.,A woman in comfortable clothing is moving fast outside near a building with a decoration on it.,Paraphrasing
+A woman in comfortable clothing is moving quickly outside near a building with a decoration on it.,A woman in comfortable clothing is moving quickly outside close to a building with a decoration on it.,Paraphrasing
+a baby is very happy,a baby is very joyful,Paraphrasing
+a baby is very happy,a baby is very pleased,Paraphrasing
+a baby is very happy,a baby is very glad,Paraphrasing
+a baby is very happy,a baby is very delighted,Paraphrasing
+A little girl poses for a picture her mom is taking.,A tiny girl poses for a picture her mom is taking.,Paraphrasing
+A little girl poses for a picture her mom is taking.,A small girl poses for a picture her mom is taking.,Paraphrasing
+A little girl poses for a picture her mom is taking.,A little girl poses for a picture her mother is taking.,Paraphrasing
+A man stands near two women.,A man stands near 2 women.,Paraphrasing
+A nighttime scene of a busy brick road in England.,A nighttime scene of a busy brick street in England.,Paraphrasing
+A little girl dislikes her brother's throw.,A tiny girl dislikes her brother's throw.,Paraphrasing
+A small group of men are having dinner and talking.,A tiny group of men are having dinner and talking.,Paraphrasing
+A small group of men are having dinner and talking.,A small group of men are having dinner and speaking.,Paraphrasing
+A small group of men are having dinner and talking.,A little group of men are having dinner and talking.,Paraphrasing
+A man selling food on the streets during late night with three lamps.,A man selling food on the streets during late night with 3 lamps.,Paraphrasing
+Three men stand near a building with a woman who is trying to shade her eyes from the sun.,Three men stand close to a building with a woman who is trying to shade her eyes from the sun.,Paraphrasing
+A small girl is sneaking up on some people walking down a dirt road,A little girl is sneaking up on some people walking down a dirt road,Paraphrasing
+A small girl is sneaking up on some people walking down a dirt road,A small girl is sneaking up on some people walking down a dirt street,Paraphrasing
+A small girl is sneaking up on some people walking down a dirt road,A tiny girl is sneaking up on some people walking down a dirt road,Paraphrasing
+The little girl in the white dress is looking at a book with her mother.,The tiny girl in the white dress is looking at a book with her mother.,Paraphrasing
+The little girl in the white dress is looking at a book with her mother.,The small girl in the white dress is looking at a book with her mother.,Paraphrasing
+The little girl in the white dress is looking at a book with her mother.,The little girl in the white dress is looking at a book with her mom.,Paraphrasing
+A person trying to get that perfect picture near the small creek.,A person trying to get that perfect picture near the little creek.,Paraphrasing
+A little girl on the street in a yellowish green and orange dress is holding a Hello Kitty balloon with her right hand.,A tiny girl on the street in a yellowish green and orange dress is holding a Hello Kitty balloon with her right hand.,Paraphrasing
+A little girl on the street in a yellowish green and orange dress is holding a Hello Kitty balloon with her right hand.,A little girl on the road in a yellowish green and orange dress is holding a Hello Kitty balloon with her right hand.,Paraphrasing
+A little girl on the street in a yellowish green and orange dress is holding a Hello Kitty balloon with her right hand.,A small girl on the street in a yellowish green and orange dress is holding a Hello Kitty balloon with her right hand.,Paraphrasing
+A young woman is outside near some water.,A young woman is outside close to some water.,Paraphrasing
+A little girl sitting in a small chair outdoors.,A little girl sitting in a little chair outdoors.,Paraphrasing
+A little girl sitting in a small chair outdoors.,A tiny girl sitting in a small chair outdoors.,Paraphrasing
+A little girl sitting in a small chair outdoors.,A small girl sitting in a small chair outdoors.,Paraphrasing
+The young woman used to live near the building.,The young woman used to live close to the building.,Paraphrasing
+"A man stretches out on a blanket in a small field, near a very busy road.","A man stretches out on a blanket in a little field, near a very busy road.",Paraphrasing
+"A man stretches out on a blanket in a small field, near a very busy road.","A man stretches out on a blanket in a small field, near a very busy street.",Paraphrasing
+"A man stretches out on a blanket in a small field, near a very busy road.","A man stretches out on a blanket in a small field, close to a very busy road.",Paraphrasing
+A small group of teens walk down a street together dressed displaying hand gestures and wearing tights and miniskirts.,A small group of teens walk down a road together dressed displaying hand gestures and wearing tights and miniskirts.,Paraphrasing
+A small group of teens walk down a street together dressed displaying hand gestures and wearing tights and miniskirts.,A little group of teens walk down a street together dressed displaying hand gestures and wearing tights and miniskirts.,Paraphrasing
+A small group of teens walk down a street together dressed displaying hand gestures and wearing tights and miniskirts.,A tiny group of teens walk down a street together dressed displaying hand gestures and wearing tights and miniskirts.,Paraphrasing
+A Chinese person is chopping onions.,A Chinese person is chopping vegetables.,strict_entailment
+a little girl in a white dress walking along side a small stream while touching her foot to a rock and holding her hair out of her face.,a tiny girl in a white dress walking along side a small stream while touching her foot to a rock and holding her hair out of her face.,Paraphrasing
+a little girl in a white dress walking along side a small stream while touching her foot to a rock and holding her hair out of her face.,a little girl in a white dress walking along side a little stream while touching her foot to a rock and holding her hair out of her face.,Paraphrasing
+a little girl in a white dress walking along side a small stream while touching her foot to a rock and holding her hair out of her face.,a little girl in a white dress walking along side a tiny stream while touching her foot to a rock and holding her hair out of her face.,Paraphrasing
+a little girl in a white dress walking along side a small stream while touching her foot to a rock and holding her hair out of her face.,a small girl in a white dress walking along side a small stream while touching her foot to a rock and holding her hair out of her face.,Paraphrasing
+Two men sitting on a flight of stairs next to the number five.,Two men sitting on a flight of stairs next to the number 5.,Paraphrasing
+The two soccer players cannot see each other.,The 2 soccer players cannot see each other.,Paraphrasing
+A young boy is near some bushes.,A young boy is close to some bushes.,Paraphrasing
+A little girl wearing sandals and white clothes holds up a small wooden cage hanging by a string.,A little girl wearing sandals and white clothes holds up a little wooden cage hanging by a string.,Paraphrasing
+A little girl wearing sandals and white clothes holds up a small wooden cage hanging by a string.,A little girl wearing sandals and white clothes holds up a tiny wooden cage hanging by a string.,Paraphrasing
+A little girl wearing sandals and white clothes holds up a small wooden cage hanging by a string.,A small girl wearing sandals and white clothes holds up a small wooden cage hanging by a string.,Paraphrasing
+A little girl wearing sandals and white clothes holds up a small wooden cage hanging by a string.,A tiny girl wearing sandals and white clothes holds up a small wooden cage hanging by a string.,Paraphrasing
+A little girl is reunited with her brother after a camping trip near a bridge.,A small girl is reunited with her brother after a camping trip near a bridge.,Paraphrasing
+A little girl is reunited with her brother after a camping trip near a bridge.,A tiny girl is reunited with her brother after a camping trip near a bridge.,Paraphrasing
+A little girl is reunited with her brother after a camping trip near a bridge.,A little girl is reunited with her brother after a camping trip close to a bridge.,Paraphrasing
+A man is floating on a small boat down a city water street.,A man is floating on a little boat down a city water street.,Paraphrasing
+A man is floating on a small boat down a city water street.,A man is floating on a small boat down a city water road.,Paraphrasing
+A man is floating on a small boat down a city water street.,A man is floating on a tiny boat down a city water street.,Paraphrasing
+A small girl playing tennis with her father,A tiny girl playing tennis with her father,Paraphrasing
+A small girl playing tennis with her father,A little girl playing tennis with her father,Paraphrasing
+A small girl playing tennis with her father,A small girl playing tennis with her dad,Paraphrasing
+A girl in a pink sweatshirt chopping onions.,A girl in a pink sweatshirt chopping vegetables.,strict_entailment
+A small woman with a huge bag standing on a city street.,A small woman with a huge bag standing on a city road.,Paraphrasing
+A small woman with a huge bag standing on a city street.,A tiny woman with a huge bag standing on a city street.,Paraphrasing
+A small woman with a huge bag standing on a city street.,A little woman with a huge bag standing on a city street.,Paraphrasing
+A skier in a orange jacket is in first place as he skies down a mountain.,A skier in a orange jacket is in 1st place as he skies down a mountain.,Paraphrasing
+A little girl dancing on the street.,A little girl dancing on the road.,Paraphrasing
+A little girl dancing on the street.,A tiny girl dancing on the street.,Paraphrasing
+A little girl dancing on the street.,A small girl dancing on the street.,Paraphrasing
+A little boy with a cream colored shirt holding a small piece of candy in a wrapper he has been saving.,A small boy with a cream colored shirt holding a small piece of candy in a wrapper he has been saving.,Paraphrasing
+A little boy with a cream colored shirt holding a small piece of candy in a wrapper he has been saving.,A little boy with a cream colored shirt holding a little piece of candy in a wrapper he has been saving.,Paraphrasing
+A little boy with a cream colored shirt holding a small piece of candy in a wrapper he has been saving.,A little boy with a cream colored shirt holding a tiny piece of candy in a wrapper he has been saving.,Paraphrasing
+a little girl is standing near a pool of water she made.,a little girl is standing close to a pool of water she made.,Paraphrasing
+a little girl is standing near a pool of water she made.,a tiny girl is standing near a pool of water she made.,Paraphrasing
+a little girl is standing near a pool of water she made.,a small girl is standing near a pool of water she made.,Paraphrasing
+A man in a cave stands near some bright lights.,A man in a cave stands close to some bright lights.,Paraphrasing
+A man in a black jacket is holding a little girl's hand while walking down the city street,A man in a black jacket is holding a tiny girl's hand while walking down the city street,Paraphrasing
+A man in a black jacket is holding a little girl's hand while walking down the city street,A man in a black jacket is holding a little girl's hand while walking down the city road,Paraphrasing
+A man in a black jacket is holding a little girl's hand while walking down the city street,A man in a black jacket is holding a small girl's hand while walking down the city street,Paraphrasing
+A young person is wearing clothes for bed time and sitting near some toys.,A young person is wearing clothes for bed time and sitting close to some toys.,Paraphrasing
+A boy runs near some steps.,A boy runs close to some steps.,Paraphrasing
+The little boy is sitting in the sun,The small boy is sitting in the sun,Paraphrasing
+A group of men standing near the road in front of an advertisement and tram car.,A group of men standing near the street in front of an advertisement and tram car.,Paraphrasing
+A small girl sits on the couch watching her brother play video games.,A small girl sits on the sofa watching her brother play video games.,Paraphrasing
+A small girl sits on the couch watching her brother play video games.,A little girl sits on the couch watching her brother play video games.,Paraphrasing
+A small girl sits on the couch watching her brother play video games.,A tiny girl sits on the couch watching her brother play video games.,Paraphrasing
+an elderly woman outside near some trees and an interesting architectural design.,an elderly woman outside close to some trees and an interesting architectural design.,Paraphrasing
+"A woman prepares a salad with lettuce, cucumbers, and mushrooms with an orange dressing.","A woman prepares a salad with lettuce, vegetables, and mushrooms with an orange dressing.",strict_entailment
+Someone is splashing through ankle--high sun-lit water to try to get to the other side of the small river.,Someone is splashing through ankle--high sun-lit water to try to get to the other side of the little river.,Paraphrasing
+"Two men pushing wheelbarrows, two men looking at them, they are in the desert near some block construction buildings.","Two men pushing wheelbarrows, two men looking at them, they are in the desert close to some block construction buildings.",Paraphrasing
+A rice field near some old buildings.,A rice field close to some old buildings.,Paraphrasing
+A little girl in a yellowish green and orange dress holds a balloon her mom bought her.,A small girl in a yellowish green and orange dress holds a balloon her mom bought her.,Paraphrasing
+A little girl in a yellowish green and orange dress holds a balloon her mom bought her.,A little girl in a yellowish green and orange dress holds a balloon her mother bought her.,Paraphrasing
+A little girl in a yellowish green and orange dress holds a balloon her mom bought her.,A tiny girl in a yellowish green and orange dress holds a balloon her mom bought her.,Paraphrasing
+A little girl rides her tricycle on a deserted street.,A tiny girl rides her tricycle on a deserted street.,Paraphrasing
+A little girl rides her tricycle on a deserted street.,A small girl rides her tricycle on a deserted street.,Paraphrasing
+A little girl rides her tricycle on a deserted street.,A little girl rides her tricycle on a deserted road.,Paraphrasing
+A little girl walking away from her bicycle and walking down the street.,A small girl walking away from her bicycle and walking down the street.,Paraphrasing
+A little girl walking away from her bicycle and walking down the street.,A tiny girl walking away from her bicycle and walking down the street.,Paraphrasing
+A little girl walking away from her bicycle and walking down the street.,A little girl walking away from her bicycle and walking down the road.,Paraphrasing
+Two separate people in small boats trying to come ashore on a beach as the sun either sets or rises.,Two separate people in small boats trying to go ashore on a beach as the sun either sets or rises.,Paraphrasing
+A little girl leaning over a small fence looking closely at a cow.,A small girl leaning over a small fence looking closely at a cow.,Paraphrasing
+A little girl leaning over a small fence looking closely at a cow.,A little girl leaning over a little fence looking closely at a cow.,Paraphrasing
+A little girl leaning over a small fence looking closely at a cow.,A tiny girl leaning over a small fence looking closely at a cow.,Paraphrasing
+A little boy with a cream colored shirt holding a small piece of candy in a wrapper.,A little boy with a cream colored shirt holding a tiny piece of candy in a wrapper.,Paraphrasing
+A little boy with a cream colored shirt holding a small piece of candy in a wrapper.,A little boy with a cream colored shirt holding a little piece of candy in a wrapper.,Paraphrasing
+A little boy with a cream colored shirt holding a small piece of candy in a wrapper.,A small boy with a cream colored shirt holding a small piece of candy in a wrapper.,Paraphrasing
+The football players are playing the fourth quarter.,The football players are playing the 4th quarter.,Paraphrasing
+An old man is peeling a carrot.,An old man is peeling a vegetable.,strict_entailment
+"An older, bearded man play a small metal whistle while holding an oboe in his arm on a city street in font of a store window.","An older, bearded man play a small metal whistle while holding an oboe in his arm on a city road in font of a store window.",Paraphrasing
+"An older, bearded man play a small metal whistle while holding an oboe in his arm on a city street in font of a store window.","An older, bearded man play a little metal whistle while holding an oboe in his arm on a city street in font of a store window.",Paraphrasing
+"An older, bearded man play a small metal whistle while holding an oboe in his arm on a city street in font of a store window.","An older, bearded man play a tiny metal whistle while holding an oboe in his arm on a city street in font of a store window.",Paraphrasing
+A man is wearing sunglasses so no one will recognize him on a boat ferry.,A man is wearing sunglasses so nobody will recognize him on a boat ferry.,Paraphrasing
+The little boy hates christmas.,The small boy hates christmas.,Paraphrasing
+She is really happy,She is really pleased,Paraphrasing
+She is really happy,She is really glad,Paraphrasing
+A small child looks at children's books near some toys,A little child looks at children's books near some toys,Paraphrasing
+a guy laying in a field who seems very happy,a guy laying in a field who seems very glad,Paraphrasing
+a guy laying in a field who seems very happy,a guy laying in a field who seems very pleased,Paraphrasing
+a guy laying in a field who seems very happy,a guy laying in a field who seems very delighted,Paraphrasing
+a guy laying in a field who seems very happy,a guy laying in a field who seems very joyful,Paraphrasing
+little girl standing with her cycle in the street.,small girl standing with her cycle in the street.,Paraphrasing
+little girl standing with her cycle in the street.,tiny girl standing with her cycle in the street.,Paraphrasing
+little girl standing with her cycle in the street.,little girl standing with her cycle in the road.,Paraphrasing
+The little girl is taking a photo for her mother.,The tiny girl is taking a photo for her mother.,Paraphrasing
+The little girl is taking a photo for her mother.,The little girl is taking a photo for her mom.,Paraphrasing
+The little girl is taking a photo for her mother.,The small girl is taking a photo for her mother.,Paraphrasing
+Person in small boat floating close to beach.,Person in tiny boat floating close to beach.,Paraphrasing
+Person in small boat floating close to beach.,Person in small boat floating near beach.,Paraphrasing
+Person in small boat floating close to beach.,Person in little boat floating close to beach.,Paraphrasing
+A small dog runs from the dirt onto the street,A little dog runs from the dirt onto the street,Paraphrasing
+A small dog runs from the dirt onto the street,A tiny dog runs from the dirt onto the street,Paraphrasing
+A small dog runs from the dirt onto the street,A small dog runs from the dirt onto the road,Paraphrasing
+A woman poses for a photo and looks very happy,A woman poses for a photo and looks very joyful,Paraphrasing
+A woman poses for a photo and looks very happy,A woman poses for a photo and looks very pleased,Paraphrasing
+A woman poses for a photo and looks very happy,A woman poses for a photo and looks very delighted,Paraphrasing
+A woman poses for a photo and looks very happy,A woman poses for a photo and looks very glad,Paraphrasing
+A little girl near a body of water pokes a stick into it.,A little girl close to a body of water pokes a stick into it.,Paraphrasing
+A little girl near a body of water pokes a stick into it.,A tiny girl near a body of water pokes a stick into it.,Paraphrasing
+A little girl near a body of water pokes a stick into it.,A small girl near a body of water pokes a stick into it.,Paraphrasing
+"A man with glasses plays with a little girl while walking down the street, while an Asian woman walks ahead of them.","A man with glasses plays with a small girl while walking down the street, while an Asian woman walks ahead of them.",Paraphrasing
+"A man with glasses plays with a little girl while walking down the street, while an Asian woman walks ahead of them.","A man with glasses plays with a little girl while walking down the road, while an Asian woman walks ahead of them.",Paraphrasing
+"A man with glasses plays with a little girl while walking down the street, while an Asian woman walks ahead of them.","A man with glasses plays with a tiny girl while walking down the street, while an Asian woman walks ahead of them.",Paraphrasing
+There are people sitting near the street.,There are people sitting near the road.,Paraphrasing
+The dog that is shown is very happy.,The dog that is shown is very pleased.,Paraphrasing
+The dog that is shown is very happy.,The dog that is shown is very joyful.,Paraphrasing
+The dog that is shown is very happy.,The dog that is shown is very delighted.,Paraphrasing
+The dog that is shown is very happy.,The dog that is shown is very glad.,Paraphrasing
+The two reptiles are standing on their back legs near deep water.,The two reptiles are standing on their back legs near high water.,Paraphrasing
+The man is near two children.,The man is near 2 children.,Paraphrasing
+The two men on the balcony are looking at the moon.,The 2 men on the balcony are looking at the moon.,Paraphrasing
+"Two women attempt to blow out the candles of a multicolored, multi-tiered cake while a third woman holds a candle up in the air.","Two women attempt to blow out the candles of a multicolored, multi-tiered cake while a 3rd woman holds a candle up in the air.",Paraphrasing
+A photo of four people in a kitchen.,A photo of four people in a room.,strict_entailment
+"Two sad people are walking beside a road, holding large pots on their heads.","Two miserable people are walking beside a road, holding large pots on their heads.",Paraphrasing
+"Two sad people are walking beside a road, holding large pots on their heads.","Two sad people are walking beside a street, holding large pots on their heads.",Paraphrasing
+"Two sad people are walking beside a road, holding large pots on their heads.","Two unhappy people are walking beside a road, holding large pots on their heads.",Paraphrasing
+"A little girl is in a grassy field, jumping over a small hole in the ground.","A little girl is in a grassy field, jumping over a tiny hole in the ground.",Paraphrasing
+"A little girl is in a grassy field, jumping over a small hole in the ground.","A little girl is in a grassy field, jumping over a little hole in the ground.",Paraphrasing
+"A little girl is in a grassy field, jumping over a small hole in the ground.","A tiny girl is in a grassy field, jumping over a small hole in the ground.",Paraphrasing
+"A little girl is in a grassy field, jumping over a small hole in the ground.","A small girl is in a grassy field, jumping over a small hole in the ground.",Paraphrasing
+The small girl in the red shirt pushes the little boy on the baby swing.,The small girl in the red shirt pushes the small boy on the baby swing.,Paraphrasing
+The small girl in the red shirt pushes the little boy on the baby swing.,The little girl in the red shirt pushes the little boy on the baby swing.,Paraphrasing
+The small girl in the red shirt pushes the little boy on the baby swing.,The tiny girl in the red shirt pushes the little boy on the baby swing.,Paraphrasing
+A plain woman in a dress standing in the street facing the sun.,A plain woman in a dress standing in the road facing the sun.,Paraphrasing
+"Two ladies and a teenage girl all dressed in summer attire are bending down and laughing, showing a small puppy to a little girl.","Two ladies and a teenage girl all dressed in summer attire are bending down and laughing, showing a little puppy to a little girl.",Paraphrasing
+"Two ladies and a teenage girl all dressed in summer attire are bending down and laughing, showing a small puppy to a little girl.","Two ladies and a teenage girl all dressed in summer attire are bending down and laughing, showing a small puppy to a small girl.",Paraphrasing
+"Two ladies and a teenage girl all dressed in summer attire are bending down and laughing, showing a small puppy to a little girl.","Two ladies and a teenage girl all dressed in summer attire are bending down and laughing, showing a small puppy to a tiny girl.",Paraphrasing
+A small dog is running on the grass beside the road.,A little dog is running on the grass beside the road.,Paraphrasing
+A small dog is running on the grass beside the road.,A tiny dog is running on the grass beside the road.,Paraphrasing
+A small dog is running on the grass beside the road.,A small dog is running on the grass beside the street.,Paraphrasing
+A little car travels along a village street.,A little car travels along a village road.,Paraphrasing
+A little car travels along a village street.,A tiny car travels along a village street.,Paraphrasing
+A little car travels along a village street.,A small car travels along a village street.,Paraphrasing
+A family is jogging through an empty street in the morning.,A family is jogging through an empty road in the morning.,Paraphrasing
+Two dogs play with each other while their owners watch to make sure no one gets hurt,Two dogs play with each other while their owners watch to make sure nobody gets hurt,Paraphrasing
+"Two men and a woman walking down a small city street, while a crowd of people are walking behind them.","Two men and a woman walking down a tiny city street, while a crowd of people are walking behind them.",Paraphrasing
+"Two men and a woman walking down a small city street, while a crowd of people are walking behind them.","Two men and a woman walking down a small city road, while a crowd of people are walking behind them.",Paraphrasing
+"Two men and a woman walking down a small city street, while a crowd of people are walking behind them.","Two men and a woman walking down a little city street, while a crowd of people are walking behind them.",Paraphrasing
+A little girl is playing near a hay bale.,A little girl is playing close to a hay bale.,Paraphrasing
+A little girl is playing near a hay bale.,A small girl is playing near a hay bale.,Paraphrasing
+A little girl is playing near a hay bale.,A tiny girl is playing near a hay bale.,Paraphrasing
+Two boys are watching a small train as it passes near them.,Two boys are watching a small train as it passes close to them.,Paraphrasing
+A woman is trying to win ten dollars by knocking a glass over with a potato.,A woman is trying to win ten dollars by knocking a glass over with a vegetable.,strict_entailment
+A man dressed in white and blue clothes leap on his bed in a hotel room near the beach.,A man dressed in white and blue clothes leap on his bed in an inn room near the beach.,Paraphrasing
+An older crowd looks up at a small stage in the street.,An older crowd looks up at a small stage in the road.,Paraphrasing
+An older crowd looks up at a small stage in the street.,An older crowd looks up at a little stage in the street.,Paraphrasing
+An older crowd looks up at a small stage in the street.,An older crowd looks up at a tiny stage in the street.,Paraphrasing
+A man steals a bicycle and rides away quickly so that no one notices.,A man steals a bicycle and rides away rapidly so that no one notices.,Paraphrasing
+A man steals a bicycle and rides away quickly so that no one notices.,A man steals a bicycle and rides away quickly so that nobody notices.,Paraphrasing
+Many people are gathered in a city street near two large brown buildings.,Many people are gathered in a city street close to two large brown buildings.,Paraphrasing
+Young people stand near some rocks.,Young people stand close to some rocks.,Paraphrasing
+lots of people walk on a road near several buildings towards a nation park where they're camping,lots of people walk on a street near several buildings towards a nation park where they're camping,Paraphrasing
+A man is asleep on the ground near two bank machines.,A man is asleep on the ground close to two bank machines.,Paraphrasing
+An asian woman is reading the bus schedule near two men waiting for the bus.,An asian woman is reading the bus schedule near 2 men waiting for the bus.,Paraphrasing
+"A small girl is near a building, holding her hand up to her chin.","A little girl is near a building, holding her hand up to her chin.",Paraphrasing
+"A small girl is near a building, holding her hand up to her chin.","A small girl is close to a building, holding her hand up to her chin.",Paraphrasing
+Seven vehicles parked on one side of a small street.,Seven vehicles parked on one side of a tiny street.,Paraphrasing
+Seven vehicles parked on one side of a small street.,Seven vehicles parked on one side of a little street.,Paraphrasing
+Seven vehicles parked on one side of a small street.,Seven vehicles parked on one side of a small road.,Paraphrasing
+A boy in a green shirt is planting potatoes.,A boy in a green shirt is planting vegetables.,strict_entailment
+A little small girl playing in a river with a dog.,A tiny small girl playing in a river with a dog.,Paraphrasing
+A little small girl playing in a river with a dog.,A little tiny girl playing in a river with a dog.,Paraphrasing
+A little girl is using a small green shovel to scoop sand at the beach.,A small girl is using a small green shovel to scoop sand at the beach.,Paraphrasing
+A little girl is using a small green shovel to scoop sand at the beach.,A tiny girl is using a small green shovel to scoop sand at the beach.,Paraphrasing
+A little girl is using a small green shovel to scoop sand at the beach.,A little girl is using a tiny green shovel to scoop sand at the beach.,Paraphrasing
+A little girl is using a small green shovel to scoop sand at the beach.,A little girl is using a little green shovel to scoop sand at the beach.,Paraphrasing
+A man sitting close to the center of a room that is filled with pictures.,A man sitting near the center of a room that is filled with pictures.,Paraphrasing
+A man with long gray hair while wearing a suit is tuning a instrument near some microphones on stands while having nearby musical equipment nearby and as the background.,A man with long gray hair while wearing a suit is tuning a instrument close to some microphones on stands while having nearby musical equipment nearby and as the background.,Paraphrasing
+The men are very happy.,The men are very pleased.,Paraphrasing
+The men are very happy.,The men are very delighted.,Paraphrasing
+The men are very happy.,The men are very glad.,Paraphrasing
+The men are very happy.,The men are very joyful.,Paraphrasing
+Two female humans near some water.,Two female humans close to some water.,Paraphrasing
+Four girls are sitting in the grass talking about the several men standing near them.,Four girls are sitting in the grass talking about the several men standing close to them.,Paraphrasing
+Four girls are sitting in the grass talking about the several men standing near them.,Four girls are sitting in the grass talking about the same men standing near them.,Paraphrasing
+A little girl jumping off the couch,A tiny girl jumping off the couch,Paraphrasing
+A little girl jumping off the couch,A small girl jumping off the couch,Paraphrasing
+A little girl jumping off the couch,A little girl jumping off the sofa,Paraphrasing
+An elderly man gives a woman some carrots.,An elderly man gives a woman some vegetables.,strict_entailment
+A woman stands outside close to the sun.,A woman stands outside near the sun.,Paraphrasing
+Mom and kids are very happy,Mom and kids are very joyful,Paraphrasing
+Mom and kids are very happy,Mom and kids are very delighted,Paraphrasing
+Mom and kids are very happy,Mom and kids are very glad,Paraphrasing
+Mom and kids are very happy,Mom and kids are very pleased,Paraphrasing
+The little girl is on her way to the park with her mom.,The little girl is on her way to the park with her mother.,Paraphrasing
+The little girl is on her way to the park with her mom.,The small girl is on her way to the park with her mom.,Paraphrasing
+The little girl is on her way to the park with her mom.,The tiny girl is on her way to the park with her mom.,Paraphrasing
+A little girls sits near the lake.,A small girls sits near the lake.,Paraphrasing
+"A small group of three boys and two girls, is standing on the beach near the water.","A tiny group of three boys and two girls, is standing on the beach near the water.",Paraphrasing
+A little girl in a yellow shirt stands near two women and a tricycle in a public place.,A little girl in a yellow shirt stands close to two women and a tricycle in a public place.,Paraphrasing
+A little girl in a yellow shirt stands near two women and a tricycle in a public place.,A tiny girl in a yellow shirt stands near two women and a tricycle in a public place.,Paraphrasing
+A little girl in a yellow shirt stands near two women and a tricycle in a public place.,A small girl in a yellow shirt stands near two women and a tricycle in a public place.,Paraphrasing
+"A little girl sits in a highchair, looking unhappy.","A small girl sits in a highchair, looking unhappy.",Paraphrasing
+"A little girl sits in a highchair, looking unhappy.","A little girl sits in a highchair, looking sad.",Paraphrasing
+"A little girl sits in a highchair, looking unhappy.","A tiny girl sits in a highchair, looking unhappy.",Paraphrasing
+A group of people in costumes are sitting near two statues.,A group of people in costumes are sitting close to two statues.,Paraphrasing
+A little girl sits with her dad.,A small girl sits with her dad.,Paraphrasing
+A little girl sits with her dad.,A little girl sits with her father.,Paraphrasing
+A little girl sits with her dad.,A tiny girl sits with her dad.,Paraphrasing
+A little boy is looking at his gifts on Christmas morning.,A small boy is looking at his gifts on Christmas morning.,Paraphrasing
+The first baseman is catching the ball.,The 1st baseman is catching the ball.,Paraphrasing
+There are 4 people in the snow at night wearing bathing suits standing and walking near a small building with a light on.,There are 4 people in the snow at night wearing bathing suits standing and walking near a tiny building with a light on.,Paraphrasing
+There are 4 people in the snow at night wearing bathing suits standing and walking near a small building with a light on.,There are 4 people in the snow at night wearing bathing suits standing and walking near a little building with a light on.,Paraphrasing
+There are 4 people in the snow at night wearing bathing suits standing and walking near a small building with a light on.,There are 4 people in the snow at night wearing bathing suits standing and walking close to a small building with a light on.,Paraphrasing
+A little girl and a woman wearing colorful costumes walk across the street.,A tiny girl and a woman wearing colorful costumes walk across the street.,Paraphrasing
+A little girl and a woman wearing colorful costumes walk across the street.,A little girl and a woman wearing colorful costumes walk across the road.,Paraphrasing
+A little girl and a woman wearing colorful costumes walk across the street.,A small girl and a woman wearing colorful costumes walk across the street.,Paraphrasing
+People outside talking near a beach with a small girl.,People outside talking near a beach with a little girl.,Paraphrasing
+People outside talking near a beach with a small girl.,People outside talking close to a beach with a small girl.,Paraphrasing
+People outside talking near a beach with a small girl.,People outside talking near a beach with a tiny girl.,Paraphrasing
+"Two female performers are dressed in eccentric clothing, one wearing red and looks un-amused and one wearing blue that looks extremely happy.","Two female performers are dressed in eccentric clothing, one wearing red and looks un-amused and one wearing blue that looks extremely pleased.",Paraphrasing
+"Two female performers are dressed in eccentric clothing, one wearing red and looks un-amused and one wearing blue that looks extremely happy.","Two female performers are dressed in eccentric clothing, one wearing red and looks un-amused and one wearing blue that looks extremely delighted.",Paraphrasing
+"Two female performers are dressed in eccentric clothing, one wearing red and looks un-amused and one wearing blue that looks extremely happy.","Two female performers are dressed in eccentric clothing, one wearing red and looks un-amused and one wearing blue that looks extremely glad.",Paraphrasing
+Fido knows not to go near the electric fence.,Fido knows not to come near the electric fence.,Paraphrasing
+Fido knows not to go near the electric fence.,Fido knows not to stop near the electric fence.,Paraphrasing
+Fido knows not to go near the electric fence.,Fido knows not to go close to the electric fence.,Paraphrasing
+A woman is sitting near some fruit.,A woman is sitting close to some fruit.,Paraphrasing
+"The sad man hold a pole in the air, while sitting close to the cliffs edge.","The sad man hold a pole in the air, while sitting near the cliffs edge.",Paraphrasing
+"The sad man hold a pole in the air, while sitting close to the cliffs edge.","The miserable man hold a pole in the air, while sitting close to the cliffs edge.",Paraphrasing
+The little girl is showing her mom what she learned at gymnastics that day.,The tiny girl is showing her mom what she learned at gymnastics that day.,Paraphrasing
+The little girl is showing her mom what she learned at gymnastics that day.,The small girl is showing her mom what she learned at gymnastics that day.,Paraphrasing
+The little girl is showing her mom what she learned at gymnastics that day.,The little girl is showing her mother what she learned at gymnastics that day.,Paraphrasing
+A little boy is very happy.,A little boy is very glad.,Paraphrasing
+A little boy is very happy.,A little boy is very delighted.,Paraphrasing
+A little boy is very happy.,A small boy is very happy.,Paraphrasing
+A little boy is very happy.,A little boy is very pleased.,Paraphrasing
+A little boy is very happy.,A little boy is very joyful.,Paraphrasing
+Two separate people in small boats trying to come ashore on a gulf coast beach as the sun either sets or rises.,Two separate people in little boats trying to come ashore on a gulf coast beach as the sun either sets or rises.,Paraphrasing
+Two separate people in small boats trying to come ashore on a gulf coast beach as the sun either sets or rises.,Two separate people in small boats trying to go ashore on a gulf coast beach as the sun either sets or rises.,Paraphrasing
+"The girl's father made her a tire swing, and she is very happy.","The girl's father made her a tire swing, and she is very pleased.",Paraphrasing
+"The girl's father made her a tire swing, and she is very happy.","The girl's father made her a tire swing, and she is very delighted.",Paraphrasing
+"The girl's father made her a tire swing, and she is very happy.","The girl's father made her a tire swing, and she is very joyful.",Paraphrasing
+"The girl's father made her a tire swing, and she is very happy.","The girl's father made her a tire swing, and she is very glad.",Paraphrasing
+A small girl spins in the waves in the bright sun.,A tiny girl spins in the waves in the bright sun.,Paraphrasing
+A fisherman is handling a net on a small boat near a dock.,A fisherman is handling a net on a tiny boat near a dock.,Paraphrasing
+A fisherman is handling a net on a small boat near a dock.,A fisherman is handling a net on a small boat close to a dock.,Paraphrasing
+A fisherman is handling a net on a small boat near a dock.,A fisherman is handling a net on a little boat near a dock.,Paraphrasing
+the man is so happy,the man is so glad,Paraphrasing
+the man is so happy,the man is so pleased,Paraphrasing
+the man is so happy,the man is so delighted,Paraphrasing
+a man in black holds a little girl's hand as they cross the street.,a man in black holds a small girl's hand as they cross the street.,Paraphrasing
+a man in black holds a little girl's hand as they cross the street.,a man in black holds a little girl's hand as they cross the road.,Paraphrasing
+a man in black holds a little girl's hand as they cross the street.,a man in black holds a tiny girl's hand as they cross the street.,Paraphrasing
+The child looks very happy.,The child looks very delighted.,Paraphrasing
+The child looks very happy.,The child looks very pleased.,Paraphrasing
+The child looks very happy.,The child looks very glad.,Paraphrasing
+The child looks very happy.,The child looks very joyful.,Paraphrasing
+A little girl is around a lot of people.,A little girl is around plenty of people.,Paraphrasing
+A little girl is around a lot of people.,A tiny girl is around a lot of people.,Paraphrasing
+A little girl is around a lot of people.,A small girl is around a lot of people.,Paraphrasing
+"A little girl jumps into the arms of her mother, standing in a pool.","A little girl jumps into the arms of her mom, standing in a pool.",Paraphrasing
+"A little girl jumps into the arms of her mother, standing in a pool.","A small girl jumps into the arms of her mother, standing in a pool.",Paraphrasing
+"A little girl jumps into the arms of her mother, standing in a pool.","A tiny girl jumps into the arms of her mother, standing in a pool.",Paraphrasing
+A brown-haired girl stoops to pick up a small white puppy on an empty street.,A brown-haired girl stoops to pick up a little white puppy on an empty street.,Paraphrasing
+A brown-haired girl stoops to pick up a small white puppy on an empty street.,A brown-haired girl stoops to pick up a small white puppy on an empty road.,Paraphrasing
+A brown-haired girl stoops to pick up a small white puppy on an empty street.,A brown-haired girl stoops to pick up a tiny white puppy on an empty street.,Paraphrasing
+A little girl races towards her mother.,A little girl races towards her mom.,Paraphrasing
+A little girl races towards her mother.,A tiny girl races towards her mother.,Paraphrasing
+A little girl races towards her mother.,A small girl races towards her mother.,Paraphrasing
+A dancer in a street parade wearing an elaborate feather headdress and a very small blue bikini.,A dancer in a street parade wearing an elaborate feather headdress and a very little blue bikini.,Paraphrasing
+A dancer in a street parade wearing an elaborate feather headdress and a very small blue bikini.,A dancer in a street parade wearing an elaborate feather headdress and a very tiny blue bikini.,Paraphrasing
+"Four young adults sit outside on a wooden deck near a building around a small round table, while another person stands on the edge of the deck, leaning on the wooden railing, with the sun shining on one of them and the rest of them are in the shade, two of them crossing their legs, one holding a cellphone out in front of himself and another holding a green and red soda can.","Four young adults sit outside on a wooden deck near a building around a small round table, while another person stands on the edge of the deck, leaning on the wooden railing, with the sun shining on one of them and the rest of them are in the shade, 2 of them crossing their legs, one holding a cellphone out in front of himself and another holding a green and red soda can.",Paraphrasing
+A little girl in a red jumper crying with her older sister and mom.,A tiny girl in a red jumper crying with her older sister and mom.,Paraphrasing
+A little girl in a red jumper crying with her older sister and mom.,A little girl in a red jumper crying with her older sister and mother.,Paraphrasing
+A little girl in a red jumper crying with her older sister and mom.,A small girl in a red jumper crying with her older sister and mom.,Paraphrasing
+Two young children wearing warm coats and hoods walk hand in hand in the street in front of a building with one small bit of red graffiti while a woman looks in their direction.,Two young children wearing warm coats and hoods walk hand in hand in the street in front of a building with one tiny bit of red graffiti while a woman looks in their direction.,Paraphrasing
+Two young children wearing warm coats and hoods walk hand in hand in the street in front of a building with one small bit of red graffiti while a woman looks in their direction.,Two young children wearing warm coats and hoods walk hand in hand in the road in front of a building with one small bit of red graffiti while a woman looks in their direction.,Paraphrasing
+Two young children wearing warm coats and hoods walk hand in hand in the street in front of a building with one small bit of red graffiti while a woman looks in their direction.,Two young children wearing warm coats and hoods walk hand in hand in the street in front of a building with one little bit of red graffiti while a woman looks in their direction.,Paraphrasing
+A man sits in a canoe on a lake near green plants.,A man sits in a canoe on a lake close to green plants.,Paraphrasing
+A man is near a small car.,A man is near a tiny car.,Paraphrasing
+A man is near a small car.,A man is near a little car.,Paraphrasing
+A man is near a small car.,A man is close to a small car.,Paraphrasing
+"There is a little girl showing off her new dress to her father, a professional baseball player.","There is a small girl showing off her new dress to her father, a professional baseball player.",Paraphrasing
+"There is a little girl showing off her new dress to her father, a professional baseball player.","There is a tiny girl showing off her new dress to her father, a professional baseball player.",Paraphrasing
+"There is a little girl showing off her new dress to her father, a professional baseball player.","There is a little girl showing off her new dress to her dad, a professional baseball player.",Paraphrasing
+A small child wearing something to protect him  from the sun.,A little child wearing something to protect him  from the sun.,Paraphrasing
+"Two motorcycle racers are rounding a corner on the track at a sharp angle, close to the ground.","Two motorcycle racers are rounding a corner on the track at a low angle, close to the ground.",Paraphrasing
+"Two motorcycle racers are rounding a corner on the track at a sharp angle, close to the ground.","Two motorcycle racers are rounding a corner on the track at a flat angle, close to the ground.",Paraphrasing
+A large SWAT team wearing riot gear and carrying assault rifles walks down the street towards the angry mob.,A large SWAT team wearing riot gear and carrying assault rifles walks down the street towards the furious mob.,Paraphrasing
+A large SWAT team wearing riot gear and carrying assault rifles walks down the street towards the angry mob.,A large SWAT team wearing riot gear and carrying assault rifles walks down the road towards the angry mob.,Paraphrasing
+A large SWAT team wearing riot gear and carrying assault rifles walks down the street towards the angry mob.,A large SWAT team wearing riot gear and carrying assault rifles walks down the street towards the mad mob.,Paraphrasing
+A large SWAT team wearing riot gear and carrying assault rifles walks down the street towards the angry mob.,A large SWAT team wearing riot gear and carrying assault rifles walks up the street towards the angry mob.,Paraphrasing
+A woman stands close to the water.,A woman stands near the water.,Paraphrasing
+A man in a garage changing oil in a car.,A man in a building changing oil in a car.,strict_entailment
+A man driving a small black car is racing down the road.,A man driving a little black car is racing down the road.,Paraphrasing
+A man driving a small black car is racing down the road.,A man driving a tiny black car is racing down the road.,Paraphrasing
+A man driving a small black car is racing down the road.,A man driving a small black car is racing down the street.,Paraphrasing
+A woman is near some paper on a table.,A woman is close to some paper on a table.,Paraphrasing
+A man sitting close to the floor polishes another man's shoe.,A man sitting near the floor polishes another man's shoe.,Paraphrasing
+A man crosses the street in between a bright orange car and a yellow taxi cab with a contraption comprised of a basket attached with ropes to carry his wares.,A man crosses the road in between a bright orange car and a yellow taxi cab with a contraption comprised of a basket attached with ropes to carry his wares.,Paraphrasing
+A small girl is following people walking down a dirt road.,A tiny girl is following people walking down a dirt road.,Paraphrasing
+A small girl is following people walking down a dirt road.,A small girl is following people walking down a dirt street.,Paraphrasing
+A small girl is following people walking down a dirt road.,A little girl is following people walking down a dirt road.,Paraphrasing
+The woman is near the little girl.,The woman is near the tiny girl.,Paraphrasing
+Two men and a little girl selling balloons on the street.,Two men and a tiny girl selling balloons on the street.,Paraphrasing
+Two men and a little girl selling balloons on the street.,Two men and a little girl selling balloons on the road.,Paraphrasing
+Two men and a little girl selling balloons on the street.,Two men and a small girl selling balloons on the street.,Paraphrasing
+Two men stand close to one another.,Two men stand near one another.,Paraphrasing
+"A woman and a girl inside, near some gifts during the holidays.","A woman and a girl inside, close to some gifts during the holidays.",Paraphrasing
+A small dog in the road,A little dog in the road,Paraphrasing
+A small dog in the road,A small dog in the street,Paraphrasing
+A small dog in the road,A tiny dog in the road,Paraphrasing
+The man is very happy.,The man is very glad.,Paraphrasing
+The man is very happy.,The man is very pleased.,Paraphrasing
+The man is very happy.,The man is very joyful.,Paraphrasing
+The man is very happy.,The man is very delighted.,Paraphrasing
+"Soldiers stand in formation outside of a building, and one man dressed in street clothes stands near them.","Soldiers stand in formation outside of a building, and one man dressed in street clothes stands close to them.",Paraphrasing
+A person is using a razor in the bathroom.,A person is using a razor in the bedroom.,Paraphrasing
+"A shirtless man in a white cap relaxes in a deck chair, close to three parked bicycles.","A shirtless man in a white cap relaxes in a deck chair, near three parked bicycles.",Paraphrasing
+"An ice cream truck came by and gave the kids free ice cream, making them happy.","An ice cream truck came by and gave the kids free ice cream, making them delighted.",Paraphrasing
+"An ice cream truck came by and gave the kids free ice cream, making them happy.","An ice cream truck came by and gave the kids free ice cream, making them pleased.",Paraphrasing
+"An ice cream truck came by and gave the kids free ice cream, making them happy.","An ice cream truck came by and gave the kids free ice cream, making them glad.",Paraphrasing
+"Two young, White males are outside near many bushes.","Two young, White males are outside close to many bushes.",Paraphrasing
+A man selling fresh produce on a street corner from his wheeled cart.,A man selling fresh produce on a road corner from his wheeled cart.,Paraphrasing
+The pretty little girl with the red brush is combing her hair.,The pretty tiny girl with the red brush is combing her hair.,Paraphrasing
+The pretty little girl with the red brush is combing her hair.,The pretty small girl with the red brush is combing her hair.,Paraphrasing
+The pretty little girl with the red brush is combing her hair.,The beautiful little girl with the red brush is combing her hair.,Paraphrasing
+A little girl in a white dress is napping on the couch.,A tiny girl in a white dress is napping on the couch.,Paraphrasing
+A little girl in a white dress is napping on the couch.,A small girl in a white dress is napping on the couch.,Paraphrasing
+A little girl in a white dress is napping on the couch.,A little girl in a white dress is napping on the sofa.,Paraphrasing
+A man helping a woman fix her fishing pole out by what appears to be a lake with a little girl playing next to the small foldable chairs.,A man helping a woman fix her fishing pole out by what appears to be a lake with a small girl playing next to the small foldable chairs.,Paraphrasing
+A man helping a woman fix her fishing pole out by what appears to be a lake with a little girl playing next to the small foldable chairs.,A man helping a woman fix her fishing pole out by what appears to be a lake with a tiny girl playing next to the small foldable chairs.,Paraphrasing
+A man helping a woman fix her fishing pole out by what appears to be a lake with a little girl playing next to the small foldable chairs.,A man helping a woman fix her fishing pole out by what appears to be a lake with a little girl playing next to the little foldable chairs.,Paraphrasing
+One litle boy kisses a little girl on nearby the road,One litle boy kisses a little girl on nearby the street,Paraphrasing
+One litle boy kisses a little girl on nearby the road,One litle boy kisses a small girl on nearby the road,Paraphrasing
+One litle boy kisses a little girl on nearby the road,One litle boy kisses a tiny girl on nearby the road,Paraphrasing
+Rocks outside sitting in the sunlight chilling watching the sun come up.,Rocks outside sitting in the sunlight chilling watching the sun go up.,Paraphrasing
+A little girl is climbing the small fence to touch a crow.,A tiny girl is climbing the small fence to touch a crow.,Paraphrasing
+A little girl is climbing the small fence to touch a crow.,A small girl is climbing the small fence to touch a crow.,Paraphrasing
+A little girl is climbing the small fence to touch a crow.,A little girl is climbing the little fence to touch a crow.,Paraphrasing
+A little girl holds a small plane.,A small girl holds a small plane.,Paraphrasing
+A little girl holds a small plane.,A little girl holds a little plane.,Paraphrasing
+A little girl holds a small plane.,A tiny girl holds a small plane.,Paraphrasing
+A little girl is being held by her father.,A tiny girl is being held by her father.,Paraphrasing
+A little girl is being held by her father.,A small girl is being held by her father.,Paraphrasing
+A little girl is being held by her father.,A little girl is being held by her dad.,Paraphrasing
+bicycle race on a small street that curves right between very tall green trees with a lot of people watching from the sidelines holding flags,bicycle race on a tiny street that curves right between very tall green trees with a lot of people watching from the sidelines holding flags,Paraphrasing
+bicycle race on a small street that curves right between very tall green trees with a lot of people watching from the sidelines holding flags,bicycle race on a little street that curves right between very tall green trees with a lot of people watching from the sidelines holding flags,Paraphrasing
+bicycle race on a small street that curves right between very tall green trees with a lot of people watching from the sidelines holding flags,bicycle race on a small road that curves right between very tall green trees with a lot of people watching from the sidelines holding flags,Paraphrasing
+There is a small child near the window.,There is a little child near the window.,Paraphrasing
+The girl is very happy.,The girl is very pleased.,Paraphrasing
+The girl is very happy.,The girl is very joyful.,Paraphrasing
+The girl is very happy.,The girl is very delighted.,Paraphrasing
+The girl is very happy.,The girl is very glad.,Paraphrasing
+A group of people walk outside near some trees.,A group of people walk outside close to some trees.,Paraphrasing
+A little girl lying in the sun.,A small girl lying in the sun.,Paraphrasing
+Boy standing near river,Boy standing close to river,Paraphrasing
+"On a near-empty street, a man and woman converse.","On a near-untouched street, a man and woman converse.",Paraphrasing
+"Two thieves are spotted at night, near some plants","Two thieves are spotted at night, close to some plants",Paraphrasing
+A man playing tennis on the weekend looks very happy.,A man playing tennis on the weekend looks very pleased.,Paraphrasing
+A man playing tennis on the weekend looks very happy.,A man playing tennis on the weekend looks very delighted.,Paraphrasing
+A man playing tennis on the weekend looks very happy.,A man playing tennis on the weekend looks very joyful.,Paraphrasing
+A man playing tennis on the weekend looks very happy.,A man playing tennis on the weekend looks very glad.,Paraphrasing
+A woman and a little girl turning a corner on a city street.,A woman and a small girl turning a corner on a city street.,Paraphrasing
+A woman and a little girl turning a corner on a city street.,A woman and a tiny girl turning a corner on a city street.,Paraphrasing
+"A little girl, standing by the side of the road, is watching a little boy as he sits in the street.","A little girl, standing by the side of the street, is watching a little boy as he sits in the street.",Paraphrasing
+"A little girl, standing by the side of the road, is watching a little boy as he sits in the street.","A little girl, standing by the side of the road, is watching a little boy as he sits in the road.",Paraphrasing
+"A little girl, standing by the side of the road, is watching a little boy as he sits in the street.","A tiny girl, standing by the side of the road, is watching a tiny boy as he sits in the street.",Paraphrasing
+"A little girl, standing by the side of the road, is watching a little boy as he sits in the street.","A small girl, standing by the side of the road, is watching a small boy as he sits in the street.",Paraphrasing
+"A band performs on a stage in front of wall-sized posters, including two guitarists, a singer, a drummer, and a keyboardist, while one attender takes a picture using a mobile camera from the far bottom left.","A band performs on a stage in front of wall-sized posters, including 2 guitarists, a singer, a drummer, and a keyboardist, while one attender takes a picture using a mobile camera from the far bottom left.",Paraphrasing
+"A little girl sits inside, glad she is not caught out in the rainstorm.","A small girl sits inside, glad she is not caught out in the rainstorm.",Paraphrasing
+"A little girl sits inside, glad she is not caught out in the rainstorm.","A little girl sits inside, happy she is not caught out in the rainstorm.",Paraphrasing
+"A little girl sits inside, glad she is not caught out in the rainstorm.","A little girl sits inside, pleased she is not caught out in the rainstorm.",Paraphrasing
+"A little girl sits inside, glad she is not caught out in the rainstorm.","A tiny girl sits inside, glad she is not caught out in the rainstorm.",Paraphrasing
+"A little girl sits inside, glad she is not caught out in the rainstorm.","A little girl sits inside, delighted she is not caught out in the rainstorm.",Paraphrasing
+The clown is looking very happy.,The clown is looking very joyful.,Paraphrasing
+The clown is looking very happy.,The clown is looking very delighted.,Paraphrasing
+The clown is looking very happy.,The clown is looking very pleased.,Paraphrasing
+The clown is looking very happy.,The clown is looking very glad.,Paraphrasing
+Guys are standing by two 4 wheelers waiting for the race to start.,Guys are standing by 2 4 wheelers waiting for the race to start.,Paraphrasing
+A child in a red jersey stands on second base.,A child in a red jersey stands on 2nd base.,Paraphrasing
+A little person wearing a pink hat is running near some garden tools.,A small person wearing a pink hat is running near some garden tools.,Paraphrasing
+A man playing tennis looks very happy.,A man playing tennis looks very glad.,Paraphrasing
+A man playing tennis looks very happy.,A man playing tennis looks very pleased.,Paraphrasing
+A man playing tennis looks very happy.,A man playing tennis looks very joyful.,Paraphrasing
+A man playing tennis looks very happy.,A man playing tennis looks very delighted.,Paraphrasing
+The dog is wanting to get the ball first.,The dog is wanting to get the ball 1st.,Paraphrasing
+A little girl is stepping in to a small pool.,A tiny girl is stepping in to a small pool.,Paraphrasing
+A little girl is stepping in to a small pool.,A small girl is stepping in to a small pool.,Paraphrasing
+A little girl is stepping in to a small pool.,A little girl is stepping in to a little pool.,Paraphrasing
+The baby is very  happy.,The baby is very  pleased.,Paraphrasing
+The baby is very  happy.,The baby is very  delighted.,Paraphrasing
+The baby is very  happy.,The baby is very  joyful.,Paraphrasing
+The baby is very  happy.,The baby is very  glad.,Paraphrasing
+The little girl is playing softball with her mom.,The tiny girl is playing softball with her mom.,Paraphrasing
+The little girl is playing softball with her mom.,The small girl is playing softball with her mom.,Paraphrasing
+The little girl is playing softball with her mom.,The little girl is playing softball with her mother.,Paraphrasing
+The man is very happy,The man is very joyful,Paraphrasing
+The man is very happy,The man is very pleased,Paraphrasing
+The man is very happy,The man is very glad,Paraphrasing
+The man is very happy,The man is very delighted,Paraphrasing
+3 dogs are swimming near the road.,3 dogs are swimming near the street.,Paraphrasing
+A small man stands in a street.,A little man stands in a street.,Paraphrasing
+A small man stands in a street.,A small man stands in a road.,Paraphrasing
+A small man stands in a street.,A tiny man stands in a street.,Paraphrasing
+A little girl is wearing a pretty dress.,A little girl is wearing a beautiful dress.,Paraphrasing
+A little girl is wearing a pretty dress.,A tiny girl is wearing a pretty dress.,Paraphrasing
+A little girl is wearing a pretty dress.,A small girl is wearing a pretty dress.,Paraphrasing
+"There is an empty street, with absolutely no one around.","There is an empty road, with absolutely no one around.",Paraphrasing
+"A man and a woman are each holding one of two little girl's hands, crossing the street, in the distance is a cyclist.","A man and a woman are each holding one of two little girl's hands, crossing the road, in the distance is a cyclist.",Paraphrasing
+"A man and a woman are each holding one of two little girl's hands, crossing the street, in the distance is a cyclist.","A man and a woman are each holding one of two small girl's hands, crossing the street, in the distance is a cyclist.",Paraphrasing
+"A man and a woman are each holding one of two little girl's hands, crossing the street, in the distance is a cyclist.","A man and a woman are each holding one of two tiny girl's hands, crossing the street, in the distance is a cyclist.",Paraphrasing
+A little girl near a fence.,A tiny girl near a fence.,Paraphrasing
+A little girl near a fence.,A small girl near a fence.,Paraphrasing
+A little girl near a fence.,A little girl close to a fence.,Paraphrasing
+"Two men, one of which is bald, in a bathroom.","Two men, one of which is bald, in a room.",strict_entailment
+"Two men, one of which is bald, in a bathroom.","Two men, one of which is bald, in a building.",strict_entailment
+A little girl in a yellow dress and pink boots running down the street,A tiny girl in a yellow dress and pink boots running down the street,Paraphrasing
+A little girl in a yellow dress and pink boots running down the street,A small girl in a yellow dress and pink boots running down the street,Paraphrasing
+A little girl in a yellow dress and pink boots running down the street,A little girl in a yellow dress and pink boots running down the road,Paraphrasing
+The little girl is riding on a paved road.,The little girl is riding on a paved street.,Paraphrasing
+The little girl is riding on a paved road.,The small girl is riding on a paved road.,Paraphrasing
+The little girl is riding on a paved road.,The tiny girl is riding on a paved road.,Paraphrasing
+The little girl with blond hair plays with a tiny umbrella.,The tiny girl with blond hair plays with a tiny umbrella.,Paraphrasing
+The little girl with blond hair plays with a tiny umbrella.,The little girl with blond hair plays with a small umbrella.,Paraphrasing
+The little girl with blond hair plays with a tiny umbrella.,The little girl with blond hair plays with a little umbrella.,Paraphrasing
+The little girl with blond hair plays with a tiny umbrella.,The small girl with blond hair plays with a tiny umbrella.,Paraphrasing
+A man is doing a trick on his horse in order to win first prize at the rodeo.,A man is doing a trick on his horse in order to win 1st prize at the rodeo.,Paraphrasing
+A man crosses the street in between a bright orange car and a white taxi cab.,A man crosses the road in between a bright orange car and a white taxi cab.,Paraphrasing
+A man and a woman sitting near small boats.,A man and a woman sitting near little boats.,Paraphrasing
+A little girl in a colorful dress and black boots holds a lollipop and plays near a fence.,A tiny girl in a colorful dress and black boots holds a lollipop and plays near a fence.,Paraphrasing
+A little girl in a colorful dress and black boots holds a lollipop and plays near a fence.,A small girl in a colorful dress and black boots holds a lollipop and plays near a fence.,Paraphrasing
+A little girl in a colorful dress and black boots holds a lollipop and plays near a fence.,A little girl in a colorful dress and black boots holds a lollipop and plays close to a fence.,Paraphrasing
+People are sitting outside near some fish.,People are sitting outside close to some fish.,Paraphrasing
+The man stands close to the train at the busy train station.,The man stands near the train at the busy train station.,Paraphrasing
+A man crosses the street in between a bright orange car and a light yellow taxi cab.,A man crosses the road in between a bright orange car and a light yellow taxi cab.,Paraphrasing
+Lots of people are walking on the road near several white buildings towards Nationals Park.,Lots of people are walking on the street near several white buildings towards Nationals Park.,Paraphrasing
+Two women standing in front of a car with a camera crew near them.,Two women standing in front of a car with a camera crew close to them.,Paraphrasing
+three people staying out of the sun,3 people staying out of the sun,Paraphrasing
+Two small figures standing in the street show just how huge the construction site has become.,Two tiny figures standing in the street show just how huge the construction site has become.,Paraphrasing
+Two small figures standing in the street show just how huge the construction site has become.,Two little figures standing in the street show just how huge the construction site has become.,Paraphrasing
+Two small figures standing in the street show just how huge the construction site has become.,Two small figures standing in the road show just how huge the construction site has become.,Paraphrasing
+Two little girls wearing dresses not very happy.,Two little girls wearing dresses not very pleased.,Paraphrasing
+Two little girls wearing dresses not very happy.,Two little girls wearing dresses not very delighted.,Paraphrasing
+Two little girls wearing dresses not very happy.,Two small girls wearing dresses not very happy.,Paraphrasing
+Two little girls wearing dresses not very happy.,Two little girls wearing dresses not very joyful.,Paraphrasing
+Two little girls wearing dresses not very happy.,Two little girls wearing dresses not very glad.,Paraphrasing
+A small girl is playing chase with her father.,A tiny girl is playing chase with her father.,Paraphrasing
+A small girl is playing chase with her father.,A little girl is playing chase with her father.,Paraphrasing
+A small girl is playing chase with her father.,A small girl is playing chase with her dad.,Paraphrasing
+"It was so cold, nobody wanted to go near the water.","It was so cold, no one wanted to go near the water.",Paraphrasing
+A little girl is near a beach.,A tiny girl is near a beach.,Paraphrasing
+A little girl is near a beach.,A little girl is close to a beach.,Paraphrasing
+A little girl is near a beach.,A small girl is near a beach.,Paraphrasing
+A little girl finds something her father lost on the side of the road.,A little girl finds something her father lost on the side of the street.,Paraphrasing
+A little girl finds something her father lost on the side of the road.,A little girl finds something her dad lost on the side of the road.,Paraphrasing
+A little girl finds something her father lost on the side of the road.,A tiny girl finds something her father lost on the side of the road.,Paraphrasing
+A little girl finds something her father lost on the side of the road.,A small girl finds something her father lost on the side of the road.,Paraphrasing
+Man standing near street.,Man standing near road.,Paraphrasing
+Two young boys sit in boxes in the living room near some decorative chairs.,Two young boys sit in boxes in the living room close to some decorative chairs.,Paraphrasing
+A little girl tries taking a nap on the comfy sofa.,A tiny girl tries taking a nap on the comfy sofa.,Paraphrasing
+A little girl tries taking a nap on the comfy sofa.,A little girl tries taking a nap on the comfy couch.,Paraphrasing
+A little girl tries taking a nap on the comfy sofa.,A small girl tries taking a nap on the comfy sofa.,Paraphrasing
+A little girl and her cat sit on the couch.,A small girl and her cat sit on the couch.,Paraphrasing
+A little girl and her cat sit on the couch.,A little girl and her cat sit on the sofa.,Paraphrasing
+A little girl and her cat sit on the couch.,A tiny girl and her cat sit on the couch.,Paraphrasing
+A little girl is standing near a patch of daffodils in a city park.,A little girl is standing close to a patch of daffodils in a city park.,Paraphrasing
+A little girl is standing near a patch of daffodils in a city park.,A tiny girl is standing near a patch of daffodils in a city park.,Paraphrasing
+A little girl is standing near a patch of daffodils in a city park.,A small girl is standing near a patch of daffodils in a city park.,Paraphrasing
+the dog is very happy,the dog is very glad,Paraphrasing
+the dog is very happy,the dog is very joyful,Paraphrasing
+the dog is very happy,the dog is very pleased,Paraphrasing
+the dog is very happy,the dog is very delighted,Paraphrasing
+A man is that just purchased and put on a rainbow colored necklace and is very happy.,A man is that just purchased and put on a rainbow colored necklace and is very pleased.,Paraphrasing
+A man is that just purchased and put on a rainbow colored necklace and is very happy.,A man is that just purchased and put on a rainbow colored necklace and is very delighted.,Paraphrasing
+A man is that just purchased and put on a rainbow colored necklace and is very happy.,A man is that just purchased and put on a rainbow colored necklace and is very glad.,Paraphrasing
+A man is that just purchased and put on a rainbow colored necklace and is very happy.,A man is that just purchased and put on a rainbow colored necklace and is very joyful.,Paraphrasing
+The brown haired girl eats a carrot.,The brown haired girl eats a vegetable.,strict_entailment
+The little girl loves her stuffed animal.,The small girl loves her stuffed animal.,Paraphrasing
+Small group of Korean War veterans parading down a street in a small town on a sunny day.,Small group of Korean War veterans parading down a road in a small town on a sunny day.,Paraphrasing
+Small group of Korean War veterans parading down a street in a small town on a sunny day.,Small group of Korean War veterans parading down a street in a little town on a sunny day.,Paraphrasing
+Small group of Korean War veterans parading down a street in a small town on a sunny day.,Small group of Korean War veterans parading down a street in a tiny town on a sunny day.,Paraphrasing
+A seated man wearing a black jacket and blue jeans sculpts a bird out of a carrot.,A seated man wearing a black jacket and blue jeans sculpts a bird out of a vegetable.,strict_entailment
+There is a small group near the table.,There is a tiny group near the table.,Paraphrasing
+A little girl is playing piggyback with her mother.,A tiny girl is playing piggyback with her mother.,Paraphrasing
+A little girl is playing piggyback with her mother.,A small girl is playing piggyback with her mother.,Paraphrasing
+A little girl is playing piggyback with her mother.,A little girl is playing piggyback with her mom.,Paraphrasing
+"A man playing scrabble with carrots, celery, onions, limes, apples and cauliflower, with an alien.","A man playing scrabble with carrots, celery, vegetables, limes, apples and cauliflower, with an alien.",strict_entailment
+"A man playing scrabble with carrots, celery, onions, limes, apples and cauliflower, with an alien.","A man playing scrabble with carrots, vegetable, onions, limes, apples and cauliflower, with an alien.",strict_entailment
+A booger flying through the 8th dimension of cheeseburgers.,A booger flying through the eighth dimension of cheeseburgers.,Paraphrasing
+A little black dog is near a big brown and white dog.,A little black dog is close to a big brown and white dog.,Paraphrasing
+A little black dog is near a big brown and white dog.,A tiny black dog is near a big brown and white dog.,Paraphrasing
+A little black dog is near a big brown and white dog.,A small black dog is near a big brown and white dog.,Paraphrasing
+The middle aged oriental woman is very happy,The middle aged oriental woman is very joyful,Paraphrasing
+The middle aged oriental woman is very happy,The middle aged oriental woman is very pleased,Paraphrasing
+The middle aged oriental woman is very happy,The middle aged oriental woman is very glad,Paraphrasing
+The middle aged oriental woman is very happy,The middle aged oriental woman is very delighted,Paraphrasing
+A dark skinned man stands near two laughing white people who are on horses.,A dark skinned man stands close to two laughing white people who are on horses.,Paraphrasing
+The little kids are hitting each other and fighting over the small car.,The little kids are hitting each other and fighting over the tiny car.,Paraphrasing
+The little kids are hitting each other and fighting over the small car.,The small kids are hitting each other and fighting over the small car.,Paraphrasing
+The little kids are hitting each other and fighting over the small car.,The little kids are hitting each other and fighting over the little car.,Paraphrasing
+A boy is walking a small white dog down the street.,A boy is walking a little white dog down the street.,Paraphrasing
+A boy is walking a small white dog down the street.,A boy is walking a small white dog down the road.,Paraphrasing
+A boy is walking a small white dog down the street.,A boy is walking a tiny white dog down the street.,Paraphrasing
+pretty little girl in a pink dress.,beautiful little girl in a pink dress.,Paraphrasing
+pretty little girl in a pink dress.,pretty tiny girl in a pink dress.,Paraphrasing
+pretty little girl in a pink dress.,pretty small girl in a pink dress.,Paraphrasing
+"A man playing scrabble with carrots, celery, onions, limes, apples and cauliflower in the pictures while his opponent has rocks spelled out on his tray.","A man playing scrabble with carrots, celery, vegetables, limes, apples and cauliflower in the pictures while his opponent has rocks spelled out on his tray.",strict_entailment
+A little girl with blond-hair is outside playing with a small doll.,A small girl with blond-hair is outside playing with a small doll.,Paraphrasing
+A little girl with blond-hair is outside playing with a small doll.,A tiny girl with blond-hair is outside playing with a small doll.,Paraphrasing
+A little girl with blond-hair is outside playing with a small doll.,A little girl with blond-hair is outside playing with a little doll.,Paraphrasing
+A small boy smiles at a little girl.,A small boy smiles at a tiny girl.,Paraphrasing
+A small boy smiles at a little girl.,A little boy smiles at a little girl.,Paraphrasing
+A small boy smiles at a little girl.,A small boy smiles at a small girl.,Paraphrasing
+Three little blond boys huddle together at the base of a tree near some old machinery.,Three little blond boys huddle together at the base of a tree close to some old machinery.,Paraphrasing
+A small girl having dinner with her dad,A small girl having dinner with her father,Paraphrasing
+A small girl having dinner with her dad,A little girl having dinner with her dad,Paraphrasing
+A small girl having dinner with her dad,A tiny girl having dinner with her dad,Paraphrasing
+A man near some machine parts.,A man close to some machine parts.,Paraphrasing
+A small girl reaching out to a little boy as she tries to help him across a playground jungle gym.,A small girl reaching out to a small boy as she tries to help him across a playground jungle gym.,Paraphrasing
+A small girl reaching out to a little boy as she tries to help him across a playground jungle gym.,A little girl reaching out to a little boy as she tries to help him across a playground jungle gym.,Paraphrasing
+A small girl reaching out to a little boy as she tries to help him across a playground jungle gym.,A tiny girl reaching out to a little boy as she tries to help him across a playground jungle gym.,Paraphrasing
+A little kid in a surgical mask is near another kid who is lying down.,A little kid in a surgical mask is close to another kid who is lying down.,Paraphrasing
+There are six people near some water.,There are six people close to some water.,Paraphrasing
+The sun sets as three men ride in a boat .,The sun sets as 3 men ride in a boat .,Paraphrasing
+"A boy, wearing a baseball cap, jumps in the air near some steps.","A boy, wearing a baseball cap, jumps in the air close to some steps.",Paraphrasing
+There are woman standing standing near some earth.,There are woman standing standing close to some earth.,Paraphrasing
+A little girl is trying to keep herself busy as her mom works,A little girl is trying to keep herself busy as her mother works,Paraphrasing
+A little girl is trying to keep herself busy as her mom works,A tiny girl is trying to keep herself busy as her mom works,Paraphrasing
+A little girl is trying to keep herself busy as her mom works,A small girl is trying to keep herself busy as her mom works,Paraphrasing
+The little girl is confused seeing two boys run down the street.,The little girl is confused seeing two boys run down the road.,Paraphrasing
+The little girl is confused seeing two boys run down the street.,The tiny girl is confused seeing two boys run down the street.,Paraphrasing
+The little girl is confused seeing two boys run down the street.,The small girl is confused seeing two boys run down the street.,Paraphrasing
+There is a small band performing for a huge audience outside on a lake.,There is a little band performing for a huge audience outside on a lake.,Paraphrasing
+There is a small band performing for a huge audience outside on a lake.,There is a tiny band performing for a huge audience outside on a lake.,Paraphrasing
+There is a small band performing for a huge audience outside on a lake.,There is a small band performing for an enormous audience outside on a lake.,Paraphrasing
+A small band playing music on the street.,A tiny band playing music on the street.,Paraphrasing
+A small band playing music on the street.,A little band playing music on the street.,Paraphrasing
+A small band playing music on the street.,A small band playing music on the road.,Paraphrasing
+The young girl loves her mother.,The young girl loves her mom.,Paraphrasing
+A small girl is standing in the middle of the road.,A tiny girl is standing in the middle of the road.,Paraphrasing
+A small girl is standing in the middle of the road.,A little girl is standing in the middle of the road.,Paraphrasing
+A small girl is standing in the middle of the road.,A small girl is standing in the middle of the street.,Paraphrasing
+A big officer stands near two women outside a battleship during a day of celebration.,A big officer stands close to two women outside a battleship during a day of celebration.,Paraphrasing
+The boy is very happy,The boy is very delighted,Paraphrasing
+The boy is very happy,The boy is very glad,Paraphrasing
+The boy is very happy,The boy is very joyful,Paraphrasing
+The boy is very happy,The boy is very pleased,Paraphrasing
+The little girl in a flower dress is talking to the ladies on the street.,The tiny girl in a flower dress is talking to the ladies on the street.,Paraphrasing
+The little girl in a flower dress is talking to the ladies on the street.,The small girl in a flower dress is talking to the ladies on the street.,Paraphrasing
+The little girl in a flower dress is talking to the ladies on the street.,The little girl in a flower dress is talking to the ladies on the road.,Paraphrasing
+a child is very happy,a child is very joyful,Paraphrasing
+a child is very happy,a child is very glad,Paraphrasing
+a child is very happy,a child is very delighted,Paraphrasing
+a child is very happy,a child is very pleased,Paraphrasing
+A little girl jumps to the sofa.,A small girl jumps to the sofa.,Paraphrasing
+A little girl jumps to the sofa.,A little girl jumps to the couch.,Paraphrasing
+A little girl jumps to the sofa.,A tiny girl jumps to the sofa.,Paraphrasing
+A small dog is playing near some footwear.,A small dog is playing close to some footwear.,Paraphrasing
+A little girl talking.,A tiny girl talking.,Paraphrasing
+A little girl talking.,A small girl talking.,Paraphrasing
+A little girl talking.,A little girl speaking.,Paraphrasing
+A little girl smiling and holding a small object.,A little girl smiling and holding a little object.,Paraphrasing
+A little girl smiling and holding a small object.,A tiny girl smiling and holding a small object.,Paraphrasing
+A little girl smiling and holding a small object.,A small girl smiling and holding a small object.,Paraphrasing
+A young man is painting a view of the lake he is sitting near,A young man is painting a view of the lake he is sitting close to,Paraphrasing
+A little girl is watching a man play guitar on the street.,A small girl is watching a man play guitar on the street.,Paraphrasing
+A little girl is watching a man play guitar on the street.,A little girl is watching a man play guitar on the road.,Paraphrasing
+A little girl is watching a man play guitar on the street.,A tiny girl is watching a man play guitar on the street.,Paraphrasing
+There is a boy in a red cap eating a carrot.,There is a boy in a red cap eating a vegetable.,strict_entailment
+A little boy protects a tiny soccer goal.,A little boy protects a small soccer goal.,Paraphrasing
+A little boy protects a tiny soccer goal.,A small boy protects a tiny soccer goal.,Paraphrasing
+A little boy protects a tiny soccer goal.,A little boy protects a little soccer goal.,Paraphrasing
+Two old people talk about a cucumber.,Two old people talk about a vegetable.,strict_entailment
+A singer is performing a song and looks very pleased.,A singer is performing a song and looks very joyful.,Paraphrasing
+A singer is performing a song and looks very pleased.,A singer is performing a song and looks very happy.,Paraphrasing
+A singer is performing a song and looks very pleased.,A singer is performing a song and looks very glad.,Paraphrasing
+A singer is performing a song and looks very pleased.,A singer is performing a song and looks very delighted.,Paraphrasing
+A little girl near some toys.,A little girl close to some toys.,Paraphrasing
+The tourists are in the sea near Italy while a man tells them about the seine.,The tourists are in the sea close to Italy while a man tells them about the seine.,Paraphrasing
+"A little boy without a shirt on is standing in a forest, holding a small bird in his hands.","A little boy without a shirt on is standing in a forest, holding a little bird in his hands.",Paraphrasing
+"A little boy without a shirt on is standing in a forest, holding a small bird in his hands.","A small boy without a shirt on is standing in a forest, holding a small bird in his hands.",Paraphrasing
+"A little boy without a shirt on is standing in a forest, holding a small bird in his hands.","A little boy without a shirt on is standing in a forest, holding a tiny bird in his hands.",Paraphrasing
+The little girl is riding in the car with her dad.,The small girl is riding in the car with her dad.,Paraphrasing
+The little girl is riding in the car with her dad.,The little girl is riding in the car with her father.,Paraphrasing
+The little girl is riding in the car with her dad.,The tiny girl is riding in the car with her dad.,Paraphrasing
+A little girl in a checkered dress plays with her big blue ball near a mesh fence.,A small girl in a checkered dress plays with her big blue ball near a mesh fence.,Paraphrasing
+A little girl in a checkered dress plays with her big blue ball near a mesh fence.,A tiny girl in a checkered dress plays with her big blue ball near a mesh fence.,Paraphrasing
+A little girl in a checkered dress plays with her big blue ball near a mesh fence.,A little girl in a checkered dress plays with her big blue ball close to a mesh fence.,Paraphrasing
+A man is standing near two other women for a picture.,A man is standing close to two other women for a picture.,Paraphrasing
+There is nobody watching the street performer and two children.,There is nobody watching the street performer and 2 children.,Paraphrasing
+A man attempts to fix a bike wheel on the side of a street near several motorbikes.,A man attempts to fix a bike wheel on the side of a road near several motorbikes.,Paraphrasing
+the men in the ring are dressed as cowboys and are very happy,the men in the ring are dressed as cowboys and are very delighted,Paraphrasing
+the men in the ring are dressed as cowboys and are very happy,the men in the ring are dressed as cowboys and are very pleased,Paraphrasing
+the men in the ring are dressed as cowboys and are very happy,the men in the ring are dressed as cowboys and are very joyful,Paraphrasing
+the men in the ring are dressed as cowboys and are very happy,the men in the ring are dressed as cowboys and are very glad,Paraphrasing
+A naval officer stands near two women outside a battleship during a day of celebration.,A naval officer stands near 2 women outside a battleship during a day of celebration.,Paraphrasing
+A little girl walks down the tree lined road.,A little girl walks down the tree lined street.,Paraphrasing
+A little girl walks down the tree lined road.,A tiny girl walks down the tree lined road.,Paraphrasing
+A little girl walks down the tree lined road.,A small girl walks down the tree lined road.,Paraphrasing
+A little girl is holding a small cute animal.,A little girl is holding a little cute animal.,Paraphrasing
+A little girl is holding a small cute animal.,A tiny girl is holding a small cute animal.,Paraphrasing
+A little girl is holding a small cute animal.,A small girl is holding a small cute animal.,Paraphrasing
+The little boy cannot swim.,The small boy cannot swim.,Paraphrasing
+An older Indian woman is sitting near some drawings.,An older Indian woman is sitting close to some drawings.,Paraphrasing
+"A little girl, wearing a yellow coat, is walking her dog down a road.","A little girl, wearing a yellow coat, is walking her dog down a street.",Paraphrasing
+"A little girl, wearing a yellow coat, is walking her dog down a road.","A tiny girl, wearing a yellow coat, is walking her dog down a road.",Paraphrasing
+"A little girl, wearing a yellow coat, is walking her dog down a road.","A small girl, wearing a yellow coat, is walking her dog down a road.",Paraphrasing
+Two female members of team USA perform a jump near two other female members.,Two female members of team USA perform a jump near 2 other female members.,Paraphrasing
+A little girl is holding a karate trophy in front of a small crowd.,A little girl is holding a karate trophy in front of a little crowd.,Paraphrasing
+A little girl is holding a karate trophy in front of a small crowd.,A tiny girl is holding a karate trophy in front of a small crowd.,Paraphrasing
+A little girl is holding a karate trophy in front of a small crowd.,A small girl is holding a karate trophy in front of a small crowd.,Paraphrasing
+A kid standing up on a swing in a park as his friends come near.,A kid standing up on a swing in a park as his friends go near.,Paraphrasing
+two people are playing tag on the planet Saturn,2 people are playing tag on the planet Saturn,Paraphrasing
+A little girl with long brown hair and a hat made out of newspaper is opening a gift while other people watch.,A little girl with long brown hair and a hat made out of newspaper is opening a present while other people watch.,Paraphrasing
+A little girl with long brown hair and a hat made out of newspaper is opening a gift while other people watch.,A tiny girl with long brown hair and a hat made out of newspaper is opening a gift while other people watch.,Paraphrasing
+A little girl with long brown hair and a hat made out of newspaper is opening a gift while other people watch.,A small girl with long brown hair and a hat made out of newspaper is opening a gift while other people watch.,Paraphrasing
+A person leans forward to catch a baseball while a runner comes close to the base.,A person leans forward to catch a baseball while a runner comes near the base.,Paraphrasing
+A little girl is posing for her mom.,A small girl is posing for her mom.,Paraphrasing
+A little girl is posing for her mom.,A tiny girl is posing for her mom.,Paraphrasing
+A little girl is posing for her mom.,A little girl is posing for her mother.,Paraphrasing
+The brown squirrel in the tree is near some leaves.,The brown squirrel in the tree is close to some leaves.,Paraphrasing
+The woman is holding her dog and very happy.,The woman is holding her dog and very joyful.,Paraphrasing
+The woman is holding her dog and very happy.,The woman is holding her dog and very delighted.,Paraphrasing
+The woman is holding her dog and very happy.,The woman is holding her dog and very glad.,Paraphrasing
+The woman is holding her dog and very happy.,The woman is holding her dog and very pleased.,Paraphrasing
+A man in bright gold paint stands near the building in the street.,A man in bright gold paint stands near the building in the road.,Paraphrasing
+two women stand near,two women stand close to,Paraphrasing
+A worker cleaning the side of a giant potato.,A worker cleaning the side of a giant vegetable.,strict_entailment
+A woman is near some playing children.,A woman is close to some playing children.,Paraphrasing
+"A woman smiles and cleans, happy that her child is now not sick any more.","A woman smiles and cleans, pleased that her child is now not sick any more.",Paraphrasing
+"A woman smiles and cleans, happy that her child is now not sick any more.","A woman smiles and cleans, glad that her child is now not sick any more.",Paraphrasing
+"A woman smiles and cleans, happy that her child is now not sick any more.","A woman smiles and cleans, delighted that her child is now not sick any more.",Paraphrasing
+A little girl with a broken arm is held by her mother.,A little girl with a broken arm is held by her mom.,Paraphrasing
+A little girl with a broken arm is held by her mother.,A tiny girl with a broken arm is held by her mother.,Paraphrasing
+A little girl with a broken arm is held by her mother.,A small girl with a broken arm is held by her mother.,Paraphrasing
+The small fluffy white dog runs through the green grass with a tiny stick in its mouth.,The small fluffy white dog runs through the green grass with a little stick in its mouth.,Paraphrasing
+The small fluffy white dog runs through the green grass with a tiny stick in its mouth.,The small fluffy white dog runs through the green grass with a small stick in its mouth.,Paraphrasing
+The small fluffy white dog runs through the green grass with a tiny stick in its mouth.,The little fluffy white dog runs through the green grass with a tiny stick in its mouth.,Paraphrasing
+a little girl hugging a huge egg,a little girl hugging an enormous egg,Paraphrasing
+a little girl hugging a huge egg,a tiny girl hugging a huge egg,Paraphrasing
+a little girl hugging a huge egg,a small girl hugging a huge egg,Paraphrasing
+There are two people close to the motorcycle.,There are two people near the motorcycle.,Paraphrasing
+A little girl teasing her mother,A small girl teasing her mother,Paraphrasing
+A little girl teasing her mother,A little girl teasing her mom,Paraphrasing
+A little girl teasing her mother,A tiny girl teasing her mother,Paraphrasing
+A man leaves a little girl on the side of the road.,A man leaves a little girl on the side of the street.,Paraphrasing
+A man leaves a little girl on the side of the road.,A man leaves a tiny girl on the side of the road.,Paraphrasing
+A man leaves a little girl on the side of the road.,A man leaves a small girl on the side of the road.,Paraphrasing
+Two sad men are in a small boat and spraying water at something.,Two sad men are in a tiny boat and spraying water at something.,Paraphrasing
+Two sad men are in a small boat and spraying water at something.,Two miserable men are in a small boat and spraying water at something.,Paraphrasing
+Two sad men are in a small boat and spraying water at something.,Two sad men are in a little boat and spraying water at something.,Paraphrasing
+Four poor men are washing their clothes in a dirty puddle because they cannot afford to go to the laundromat.,Four poor men are washing their clothes in a dirty puddle because they cannot afford to come to the laundromat.,Paraphrasing
+"Two women, each embracing a little girl, catch up at a small family gathering.","Two women, each embracing a tiny girl, catch up at a small family gathering.",Paraphrasing
+"Two women, each embracing a little girl, catch up at a small family gathering.","Two women, each embracing a little girl, catch up at a little family gathering.",Paraphrasing
+"Two women, each embracing a little girl, catch up at a small family gathering.","Two women, each embracing a small girl, catch up at a small family gathering.",Paraphrasing
+"Two women, each embracing a little girl, catch up at a small family gathering.","Two women, each embracing a little girl, catch up at a tiny family gathering.",Paraphrasing
+The small girl in the red shirt pushes her little brother on the baby swing.,The tiny girl in the red shirt pushes her little brother on the baby swing.,Paraphrasing
+The small girl in the red shirt pushes her little brother on the baby swing.,The small girl in the red shirt pushes her small brother on the baby swing.,Paraphrasing
+The small girl in the red shirt pushes her little brother on the baby swing.,The little girl in the red shirt pushes her little brother on the baby swing.,Paraphrasing
+A child wearing a light blue sweatshirt stands near green and yellow vehicles.,A child wearing a light blue sweatshirt stands close to green and yellow vehicles.,Paraphrasing
+A bike race on a small street.,A bike race on a tiny street.,Paraphrasing
+A bike race on a small street.,A bike race on a little street.,Paraphrasing
+A bike race on a small street.,A bike race on a small road.,Paraphrasing
+The little girl is at the mall shopping with her mom,The tiny girl is at the mall shopping with her mom,Paraphrasing
+The little girl is at the mall shopping with her mom,The little girl is at the mall shopping with her mother,Paraphrasing
+The little girl is at the mall shopping with her mom,The small girl is at the mall shopping with her mom,Paraphrasing
+A little boy sitting in the window of a taxi cab.,A small boy sitting in the window of a taxi cab.,Paraphrasing
+A little girl stands on a cobblestone street and watches bubbles.,A tiny girl stands on a cobblestone street and watches bubbles.,Paraphrasing
+A little girl stands on a cobblestone street and watches bubbles.,A small girl stands on a cobblestone street and watches bubbles.,Paraphrasing
+A little girl stands on a cobblestone street and watches bubbles.,A little girl stands on a cobblestone road and watches bubbles.,Paraphrasing
+A naked woman walking near people standing on benches.,A naked woman walking close to people standing on benches.,Paraphrasing
+The young woman is drinking lemonade.,The young woman is drinking juice.,Paraphrasing
+The man and woman are sitting close to the water.,The man and woman are sitting near the water.,Paraphrasing
+Woman in small boat in the ocean close to shore.,Woman in little boat in the ocean close to shore.,Paraphrasing
+Woman in small boat in the ocean close to shore.,Woman in small boat in the ocean near shore.,Paraphrasing
+Woman in small boat in the ocean close to shore.,Woman in tiny boat in the ocean close to shore.,Paraphrasing
+A little boy climbs a small hill.,A little boy climbs a tiny hill.,Paraphrasing
+A little boy climbs a small hill.,A small boy climbs a small hill.,Paraphrasing
+A little boy climbs a small hill.,A little boy climbs a little hill.,Paraphrasing
+A woman is standing outside near many bicycles.,A woman is standing outside close to many bicycles.,Paraphrasing
+A small country road.,A little country road.,Paraphrasing
+A small country road.,A small country street.,Paraphrasing
+A small country road.,A tiny country road.,Paraphrasing
+A small white dog stands in the middle of a street.,A tiny white dog stands in the middle of a street.,Paraphrasing
+A small white dog stands in the middle of a street.,A small white dog stands in the middle of a road.,Paraphrasing
+A small white dog stands in the middle of a street.,A little white dog stands in the middle of a street.,Paraphrasing
+"A little girl taking a stroll in a huge, manicured park.","A little girl taking a stroll in an enormous, manicured park.",Paraphrasing
+"A little girl taking a stroll in a huge, manicured park.","A small girl taking a stroll in a huge, manicured park.",Paraphrasing
+"A little girl taking a stroll in a huge, manicured park.","A tiny girl taking a stroll in a huge, manicured park.",Paraphrasing
+A small dog standing in the middle of the street.,A little dog standing in the middle of the street.,Paraphrasing
+A small dog standing in the middle of the street.,A small dog standing in the middle of the road.,Paraphrasing
+A small dog standing in the middle of the street.,A tiny dog standing in the middle of the street.,Paraphrasing
+old woman close to window,old woman near window,Paraphrasing
+A fisherman is handling a wheel on a small boat near a dock.,A fisherman is handling a wheel on a little boat near a dock.,Paraphrasing
+A fisherman is handling a wheel on a small boat near a dock.,A fisherman is handling a wheel on a small boat close to a dock.,Paraphrasing
+A fisherman is handling a wheel on a small boat near a dock.,A fisherman is handling a wheel on a tiny boat near a dock.,Paraphrasing
+"The boys are a part of a world-famous touring group, performing for a huge audience in Sydney, Australia.","The boys are a part of a world-famous touring group, performing for an enormous audience in Sydney, Australia.",Paraphrasing
+A man and a woman walk down the street near the restaurant.,A man and a woman walk down the road near the restaurant.,Paraphrasing
+A small group of people and an animal walk on a dirt road in a woods.,A small group of people and an animal walk on a dirt street in a woods.,Paraphrasing
+A small group of people and an animal walk on a dirt road in a woods.,A tiny group of people and an animal walk on a dirt road in a woods.,Paraphrasing
+A small group of people and an animal walk on a dirt road in a woods.,A little group of people and an animal walk on a dirt road in a woods.,Paraphrasing
+The little girl is sitting on a small wicker chair wearing a cute yellow and white dress.,The small girl is sitting on a small wicker chair wearing a cute yellow and white dress.,Paraphrasing
+The little girl is sitting on a small wicker chair wearing a cute yellow and white dress.,The little girl is sitting on a little wicker chair wearing a cute yellow and white dress.,Paraphrasing
+The little girl is sitting on a small wicker chair wearing a cute yellow and white dress.,The tiny girl is sitting on a small wicker chair wearing a cute yellow and white dress.,Paraphrasing
+A street scene in Japan showing a storefront.,A road scene in Japan showing a storefront.,Paraphrasing
+A man jiggles bowling pins for the first time,A man jiggles bowling pins for the 1st time,Paraphrasing
+There is water close to the woman.,There is water near the woman.,Paraphrasing
+Lifeguards teaching local 3rd graders how to swim at pool.,Lifeguards teaching local third graders how to swim at pool.,Paraphrasing
+A little girl dislikes her brother's throw of the football.,A tiny girl dislikes her brother's throw of the football.,Paraphrasing
+"Four people are sitting on blue and green couches, while a fifth man sitting aside looks on, underneath a sprawling red tree.","Four people are sitting on blue and green couches, while a 5th man sitting aside looks on, underneath a sprawling red tree.",Paraphrasing
+A woman dropped her belongings and is seated in a colorful chair is near some plants.,A woman dropped her belongings and is seated in a colorful chair is close to some plants.,Paraphrasing
+The boy is near a little car.,The boy is close to a little car.,Paraphrasing
+The boy is near a little car.,The boy is near a small car.,Paraphrasing
+The boy is near a little car.,The boy is near a tiny car.,Paraphrasing
+A little boy looking at the moon through binoculars.,A small boy looking at the moon through binoculars.,Paraphrasing
+The quarterback tries to get a first down.,The quarterback tries to get a 1st down.,Paraphrasing
+The woman is very happy,The woman is very joyful,Paraphrasing
+The woman is very happy,The woman is very delighted,Paraphrasing
+A small black dog is sitting on the couch.,A little black dog is sitting on the couch.,Paraphrasing
+A small black dog is sitting on the couch.,A tiny black dog is sitting on the couch.,Paraphrasing
+A small black dog is sitting on the couch.,A small black dog is sitting on the sofa.,Paraphrasing
+Man holding a little girl in a street.,Man holding a tiny girl in a street.,Paraphrasing
+Man holding a little girl in a street.,Man holding a small girl in a street.,Paraphrasing
+Man holding a little girl in a street.,Man holding a little girl in a road.,Paraphrasing
+The man and woman look very happy.,The man and woman look very pleased.,Paraphrasing
+The man and woman look very happy.,The man and woman look very joyful.,Paraphrasing
+The man and woman look very happy.,The man and woman look very delighted.,Paraphrasing
+The man and woman look very happy.,The man and woman look very glad.,Paraphrasing
+"The family is working to plant tomatoes, potatoes, and lettuce in their newly hoed garden.","The family is working to plant tomatoes, vegetables, and lettuce in their newly hoed garden.",strict_entailment
+A little girl making arts and crafts with small umbrellas and corks.,A small girl making arts and crafts with small umbrellas and corks.,Paraphrasing
+A little girl making arts and crafts with small umbrellas and corks.,A little girl making arts and crafts with little umbrellas and corks.,Paraphrasing
+A little girl making arts and crafts with small umbrellas and corks.,A tiny girl making arts and crafts with small umbrellas and corks.,Paraphrasing
+A man near some meat.,A man close to some meat.,Paraphrasing
+A man near some sand.,A man close to some sand.,Paraphrasing
+Several uniformed men carrying flags and guns are leading a parade contingent along a small town street.,Several uniformed men carrying flags and guns are leading a parade contingent along a tiny town street.,Paraphrasing
+Several uniformed men carrying flags and guns are leading a parade contingent along a small town street.,Several uniformed men carrying flags and guns are leading a parade contingent along a little town street.,Paraphrasing
+Several uniformed men carrying flags and guns are leading a parade contingent along a small town street.,Several uniformed men carrying flags and guns are leading a parade contingent along a small town road.,Paraphrasing
+"Many people in the city street running in a marathon, next to the start line.","Many people in the city road running in a marathon, next to the start line.",Paraphrasing
+An alternatively dressed woman stands on a small wooden platform with an accordion and watches another creatively dressed woman play the violin with various other people on the street behind them.,An alternatively dressed woman stands on a little wooden platform with an accordion and watches another creatively dressed woman play the violin with various other people on the street behind them.,Paraphrasing
+An alternatively dressed woman stands on a small wooden platform with an accordion and watches another creatively dressed woman play the violin with various other people on the street behind them.,An alternatively dressed woman stands on a tiny wooden platform with an accordion and watches another creatively dressed woman play the violin with various other people on the street behind them.,Paraphrasing
+An alternatively dressed woman stands on a small wooden platform with an accordion and watches another creatively dressed woman play the violin with various other people on the street behind them.,An alternatively dressed woman stands on a small wooden platform with an accordion and watches another creatively dressed woman play the violin with various other people on the road behind them.,Paraphrasing
+A little boy stands near the sprinklers and squeals.,A small boy stands near the sprinklers and squeals.,Paraphrasing
+Three dogs race each other to reach the ball first.,Three dogs race each other to reach the ball 1st.,Paraphrasing
+The girl and the boy are dating and she is really happy,The girl and the boy are dating and she is really delighted,Paraphrasing
+The girl and the boy are dating and she is really happy,The girl and the boy are dating and she is really glad,Paraphrasing
+The girl and the boy are dating and she is really happy,The girl and the boy are dating and she is really pleased,Paraphrasing
+There is a little girl helping her father,There is a small girl helping her father,Paraphrasing
+There is a little girl helping her father,There is a little girl helping her dad,Paraphrasing
+There is a little girl helping her father,There is a tiny girl helping her father,Paraphrasing
+A man has a cane and is near two other people.,A man has a cane and is close to two other people.,Paraphrasing
+The little girl is near a pool.,The tiny girl is near a pool.,Paraphrasing
+The little girl is near a pool.,The small girl is near a pool.,Paraphrasing
+The little girl is near a pool.,The little girl is close to a pool.,Paraphrasing
+A little girl balancing on a ledge on the side of the street.,A small girl balancing on a ledge on the side of the street.,Paraphrasing
+A little girl balancing on a ledge on the side of the street.,A little girl balancing on a ledge on the side of the road.,Paraphrasing
+A little girl balancing on a ledge on the side of the street.,A tiny girl balancing on a ledge on the side of the street.,Paraphrasing
+little girl trying to comb her mother.,tiny girl trying to comb her mother.,Paraphrasing
+little girl trying to comb her mother.,small girl trying to comb her mother.,Paraphrasing
+little girl trying to comb her mother.,little girl trying to comb her mom.,Paraphrasing
+"A couple is sitting along side a canal and kissing, while a woman in red sits near them and looks uncomfortable.","A couple is sitting along side a canal and kissing, while a woman in red sits close to them and looks uncomfortable.",Paraphrasing
+"A little girl is standing on the street, holding a red bag.","A little girl is standing on the road, holding a red bag.",Paraphrasing
+"A little girl is standing on the street, holding a red bag.","A tiny girl is standing on the street, holding a red bag.",Paraphrasing
+"A little girl is standing on the street, holding a red bag.","A small girl is standing on the street, holding a red bag.",Paraphrasing
+A little girl is looking at her mother.,A little girl is looking at her mom.,Paraphrasing
+A little girl is looking at her mother.,A small girl is looking at her mother.,Paraphrasing
+A little girl is looking at her mother.,A tiny girl is looking at her mother.,Paraphrasing
+"A woman is selling potatoes, carrots and onions in front of a low wall.","A woman is selling vegetables, carrots and onions in front of a low wall.",strict_entailment
