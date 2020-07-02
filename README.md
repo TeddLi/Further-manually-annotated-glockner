@@ -2,10 +2,10 @@
 This is the manually-annotated glockner dataset that we used in our paper "Several Experiments on Investigating Pretraining and
 Knowledge-Enhanced Models for Natural Language Inference"
 
-###Dependencies
+### Dependencies
 Python 3.6
 
-###Cite
+### Cite
 If you use the code and datasets, please cite the following paper: "Several Experiments on Investigating Pretraining and
 Knowledge-Enhanced Models for Natural Language Inference"  https://arxiv.org/abs/1904.12104.
 
